@@ -1,7 +1,7 @@
 FROM thomahol/d_p4
 
 # Install ExaBGP
-RUN apt-get update && apt-get install -y unzip python2.7 python3-dev
+RUN apt-get update && apt-get install -y unzip python2.7 python3-dev curl
 
 WORKDIR /root
 RUN curl -O -L https://github.com/Exa-Networks/exabgp/archive/4.2.7.zip
