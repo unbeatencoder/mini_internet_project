@@ -1,0 +1,3 @@
+R1	frr  N/A	host:thomahol/d_host    100000  10
+EXA    exabgp	N/A	host:thomahol/d_host    100000  10
+R2	frr  N/A host:thomahol/d_host    100000  10
