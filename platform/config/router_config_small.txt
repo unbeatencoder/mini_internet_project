@@ -1,2 +1,3 @@
-LOND    MATRIX host:thomahol/d_host vtysh
-ZURI    MATRIX_TARGET host:thomahol/d_host  vtysh
+LOND    N/A L2-UNIV:thomahol/d_host vtysh
+ZURI    N/A L2-UNIV:thomahol/d_host  vtysh
+BOST    N/A L2-UNIV:thomahol/d_host vtysh
