@@ -1,2 +1,2 @@
-student_31	thomahol/d_host   UNIV   EPFL    10000    1000    10
-student_32	thomahol/d_host   UNIV   EPFL    10000    1000    10
+student_31	thomahol/d_host   UNIV1   EPFL    10000    1000    10
+student_32	thomahol/d_host   UNIV1   EPFL    10000    1000    10
