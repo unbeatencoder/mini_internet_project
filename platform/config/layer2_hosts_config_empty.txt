@@ -1,6 +1,2 @@
-student_11	thomahol/d_host   UNIV   ETHZ    10000    1000    10
-student_12	thomahol/d_host   UNIV   ETHZ    10000    1000    10
-student_21	thomahol/d_host   UNIV   CERN    10000    1000    10
-student_22	thomahol/d_host   UNIV   CERN    10000    1000    10
-student_31	thomahol/d_host   UNIV   EPFL    10000    1000    10
-student_32	thomahol/d_host   UNIV   EPFL    10000    1000    10
+
+
