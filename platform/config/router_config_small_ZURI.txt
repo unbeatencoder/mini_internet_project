@@ -1,1 +1,1 @@
-ZURI    N/A L2-UNIV2:thomahol/d_host  vtysh
+ZURI    N/A L2-UNIV2:tkann/btc-reg-d  vtysh
