@@ -1,2 +1,2 @@
-student_11	thomahol/d_host   UNIV2   ETHZ    10000    1000    10
-student_12	thomahol/d_host   UNIV2   ETHZ    10000    1000    10
+student_11	tkann/btc-reg-d   UNIV2   ETHZ    10000    1000    10
+student_12	tkann/btc-reg-d   UNIV2   ETHZ    10000    1000    10
