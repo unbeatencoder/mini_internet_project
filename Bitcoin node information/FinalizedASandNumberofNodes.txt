@@ -1,0 +1,26 @@
+Current Time = 00:23:30 (EST)
+Current Date = May 2, 2022
+Cutoff : > 60 nodes
+1 bitcoin client representing 33 clients in each AS.
+==================
+1. AS24940 => 28 [HETZNER, Germany]
+2. AS16276 => 13 [OVH, France]
+3. AS16509 => 13 [Amazon-02, USA]
+4. AS14061 => 9 [DigitalOceans LLC, USA]
+5. AS7922 => 8 [COMCAST, USA]
+6. AS51167 => 6 [CONTABO, Germany]
+7. AS701 => 4 [Verizon, USA]
+8. AS7018 => 3 [ATT,USA]
+9. AS14618 => 3 [AMAZON-AES, USA]
+10. AS20473 => 3 [The Constant Company LLC, USA.]
+11. AS3320 => 2	[Deutsche Telekom, Germany]
+12. AS3209 => 2 [Vodafone, Germany]
+13. AS22773 => 2 [Cox Communication, USA]
+14. AS63949 => 2 [Linode LLC, USA]
+15. AS12876 => 2 [Online SAS, France]
+===================
+Total : 100 nodes.
+===================
+3 countries : USA, Germany, France
+
+
