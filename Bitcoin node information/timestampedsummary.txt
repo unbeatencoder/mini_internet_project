@@ -1,0 +1,7 @@
+Current Time = 00:23:30 (EST)
+Current Date = May 2, 2022
+Total Nodes 15246
+Length of AS list 1126
+Non onion nodes 7056
+Onion nodes 8190
+Counted nodes 15246
