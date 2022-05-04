@@ -24,8 +24,8 @@ class miner:
         info = subprocess.run(['docker', 'exec', self.imageName,'ifconfig'], stdout=subprocess.PIPE).stdout.decode('utf-8')
 
     def getIP(self):
-        ethO = subprocess.run(['docker', 'exec', self.imageName, 'ifconfig', 'eth0'], stdout=subprocess.PIPE).stdout.decode('utf-8')
-        self.ip = re.findall('inet ([\d\.]*) ',ethO)[0]
+        eth = subprocess.run(['docker', 'exec', self.imageName, 'ifconfig'], stdout=subprocess.PIPE).stdout.decode('utf-8')
+        self.ip = re.findall('inet ([\d\.]*) ',eth)[0]
         return self.ip
 
     def connectToNeighbors(self, hosts):
@@ -98,19 +98,6 @@ def checkIfBlockGen(currentBlockGenTime, chainDepth,hosts,probabilityTable, bloc
     else:
         return currentBlockGenTime, chainDepth, blockSpawnTimes
 
-
-
-# #mining power must add to 1 or be normalized to 1
-# miningPowerRatio = {
-#                     "1.200.10.2":.3,
-#                     "1.200.10.3":.3,
-                    
-#                     "2.200.10.2":.2,
-#                     "2.200.10.3":.1,
-                    
-#                     "3.200.10.2":.05,
-#                     "3.200.10.3":.05,
-#                     }
 
 def generateHosts(hostFile):
     hosts = []
