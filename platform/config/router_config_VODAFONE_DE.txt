@@ -1,1 +1,1 @@
-VODAFONEDE    N/A L2-UNIV12: vtysh
+VODA    N/A L2-UNIV12: vtysh

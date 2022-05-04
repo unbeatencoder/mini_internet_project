@@ -1,1 +1,1 @@
-AMAZON02USA    N/A L2-UNIV1: vtysh
+AMZN02    N/A L2-UNIV1: vtysh

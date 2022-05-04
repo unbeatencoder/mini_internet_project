@@ -1,1 +1,1 @@
-VERIZONUSA    N/A L2-UNIV7: vtysh
+VERIZN    N/A L2-UNIV7: vtysh

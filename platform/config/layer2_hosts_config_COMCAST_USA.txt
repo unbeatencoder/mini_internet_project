@@ -1,8 +1,8 @@
-miner_31	tkann/btc-reg-d   UNIV3   COMCASTUSASWITCH    10000    1000    10
-miner_32	tkann/btc-reg-d   UNIV3   COMCASTUSASWITCH    10000    1000    10
-miner_33	tkann/btc-reg-d   UNIV3   COMCASTUSASWITCH    10000    1000    10
-miner_34	tkann/btc-reg-d   UNIV3   COMCASTUSASWITCH    10000    1000    10
-miner_35	tkann/btc-reg-d   UNIV3   COMCASTUSASWITCH    10000    1000    10
-miner_36	tkann/btc-reg-d   UNIV3   COMCASTUSASWITCH    10000    1000    10
-miner_37	tkann/btc-reg-d   UNIV3   COMCASTUSASWITCH    10000    1000    10
-miner_38	tkann/btc-reg-d   UNIV3   COMCASTUSASWITCH    10000    1000    10
+miner_31	tkann/btc-reg-d   UNIV3   COMCASS    10000    1000    10
+miner_32	tkann/btc-reg-d   UNIV3   COMCASS    10000    1000    10
+miner_33	tkann/btc-reg-d   UNIV3   COMCASS    10000    1000    10
+miner_34	tkann/btc-reg-d   UNIV3   COMCASS    10000    1000    10
+miner_35	tkann/btc-reg-d   UNIV3   COMCASS    10000    1000    10
+miner_36	tkann/btc-reg-d   UNIV3   COMCASS    10000    1000    10
+miner_37	tkann/btc-reg-d   UNIV3   COMCASS    10000    1000    10
+miner_38	tkann/btc-reg-d   UNIV3   COMCASS    10000    1000    10

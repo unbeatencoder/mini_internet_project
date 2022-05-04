@@ -1,1 +1,1 @@
-ATTUSA    N/A L2-UNIV6: vtysh
+ATT    N/A L2-UNIV6: vtysh

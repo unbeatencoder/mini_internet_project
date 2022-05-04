@@ -1,3 +1,3 @@
-miner_81	tkann/btc-reg-d   UNIV8   CONSTANTCOMPANYUSASWITCH    10000    1000    10
-miner_82	tkann/btc-reg-d   UNIV8   CONSTANTCOMPANYUSASWITCH    10000    1000    10
-miner_83	tkann/btc-reg-d   UNIV8   CONSTANTCOMPANYUSASWITCH    10000    1000    10
+miner_81	tkann/btc-reg-d   UNIV8   CONSTCS    10000    1000    10
+miner_82	tkann/btc-reg-d   UNIV8   CONSTCS    10000    1000    10
+miner_83	tkann/btc-reg-d   UNIV8   CONSTCS    10000    1000    10

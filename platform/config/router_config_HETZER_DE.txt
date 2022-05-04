@@ -1,1 +1,1 @@
-HETZERDE    N/A L2-UNIV10: vtysh
+HETZ    N/A L2-UNIV10: vtysh

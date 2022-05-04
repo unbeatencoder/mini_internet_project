@@ -1,2 +1,2 @@
-miner_131	tkann/btc-reg-d   UNIV13  DEUTSCHETELEDESWITCH    10000    1000    10
-miner_132	tkann/btc-reg-d   UNIV13  DEUTSCHETELEDESWITCH    10000    1000    10
+miner_131	tkann/btc-reg-d   UNIV13  DETELS    10000    1000    10
+miner_132	tkann/btc-reg-d   UNIV13  DETELS    10000    1000    10
