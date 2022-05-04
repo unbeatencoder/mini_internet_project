@@ -1,5 +1,6 @@
 import pandas as pd
 import matplotlib.pyplot as plt
+import seaborn as sns
 import re
 import sys
 from datetime import datetime, timedelta
@@ -49,3 +50,7 @@ blockReceptions['delta'] = deltas
 output = fileLoc[:-4] + "_ordered.csv"
 blockGens.to_csv(output, index=False, header=True)
 blockReceptions.to_csv(output, index=False, header=True, mode='a')
+
+
+kwargs = {'cumulative': True}
+sns.distplot(blockReceptions['delta'], hist_kws=kwargs, kde_kws=kwargs)
