@@ -2,7 +2,9 @@ import os
 import shutil
 import subprocess
 import json
-import np
+import numpy as np
+import pandas as pd
+import re
 from datetime import datetime, timedelta
 import argparse
 
@@ -51,43 +53,67 @@ def checkChainDepth(images):
     for image in images:
         image.updateBlockTimings()
 
-def generateBlockProportionately(probabilityTable):
+def generateBlockProportionately(hosts,probabilityTable):
     randNum = np.random.random()
-    for host,probability in miningPowerRatio.items():
+    for hostname,probability in probabilityTable.items():
         if randNum >= probability:
             randNum = randNum - probability
         else:
+            host = getHostByName(hosts,hostname)
             host.generateBlocks()
             return
 
-def checkIfBlockGen(currentBlockGenTime, chainDepth):
+def checkIfBlockGen(currentBlockGenTime, chainDepth,hosts,probabilityTable):
     currentBlockLifespan = datetime.now() - currentBlockGenTime
     if currentBlockGenTime > BLOCK_GEN_RATE:
-        generateBlockProportionately()
+        generateBlockProportionately(hosts,probabilityTable)
         return datetime.now(), chainDepth + 1
     else:
         return currentBlockGenTime, chainDepth
 
 
 
-#mining power must add to 1 or be normalized to 1
-miningPowerRatio = {
-                    "1.200.10.2":.3,
-                    "1.200.10.3":.3,
+# #mining power must add to 1 or be normalized to 1
+# miningPowerRatio = {
+#                     "1.200.10.2":.3,
+#                     "1.200.10.3":.3,
                     
-                    "2.200.10.2":.2,
-                    "2.200.10.3":.1,
+#                     "2.200.10.2":.2,
+#                     "2.200.10.3":.1,
                     
-                    "3.200.10.2":.05,
-                    "3.200.10.3":.05,
-                    }
+#                     "3.200.10.2":.05,
+#                     "3.200.10.3":.05,
+#                     }
 
-def generateHosts(miningPowerRatio):
+def generateHosts(hostFile):
     hosts = []
     probabilityTable = {}
-    for ip, probability in miningPowerRatio.items():
-        ##TODO
-        pass
+    hostsfileDF = pandas.read_csv(hostFile,sep='\s+')
+    for i, row in hostsfileDF.iterrows():
+        hostName = row['NAMES']
+        if re.search('miner',hostName):
+            newMiner = miner(hostName)
+            hosts.append(newMiner)
+            probabilityTable[hostName] = np.random.random() #TODO shouldn't be random
+    return hosts, probabilityTable
+
+def getHostByName(hosts,hostname):
+    for host in hosts:
+        if host.imageName == hostname:
+            return host
+
+def normalizeProbs(probabilityTable):
+    #cumulatively sum probabilities
+    cumsum = 0
+    for host,prob in probabilityTable.items():
+        cumsum = cumsum + prob
+    
+    for host,prob in probabilityTable.items():
+        prob = prob / cumsum
+    
+    return probabilityTable
+
+
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-n', '--numblocks',
@@ -109,8 +135,8 @@ if __name__=='main':
     hostFile = args.hosts
     
     hosts, probabilityTable = generateHosts(hostFile)
-    
-    chainTimestamps = []
+    probabilityTable = normalizeProbs(probabilityTable)
+
     
     ## start experiment timer
     startTime = datetime.now()
@@ -122,6 +148,6 @@ if __name__=='main':
     
     while (chainDepth < NUMBER_OF_BLOCKS_TO_GEN + 1):
         checkChainDepth(hosts)
-        currentBlockGenTime, chainDepth = checkIfBlockGen(currentBlockGenTime, chainDepth)
+        currentBlockGenTime, chainDepth = checkIfBlockGen(currentBlockGenTime, chainDepth,hosts,probabilityTable)
 
 
