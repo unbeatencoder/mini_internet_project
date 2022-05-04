@@ -3,7 +3,7 @@ import shutil
 import subprocess
 import json
 import numpy as np
-import pandas as pd
+import pandas
 import re
 from datetime import datetime, timedelta
 import argparse
@@ -13,7 +13,7 @@ import argparse
 
 ### CONSTANTS ####
 
-BLOCK_GEN_RATE = timedelta(0,5*60) #seconds
+BLOCK_GEN_RATE = timedelta(0,0.2*60) #seconds
 NUMBER_OF_BLOCKS_TO_GEN = 20
 
 class miner:
@@ -28,7 +28,7 @@ class miner:
         return infoJson
     
     def generateBlocks(self, BLOCKS=1):
-        generated = subprocess.run(['docker', 'exec', self.imageName,'bitcoin-cli','-generate', BLOCKS], stdout=subprocess.PIPE).stdout.decode('utf-8')
+        generated = subprocess.run(['docker', 'exec', self.imageName,'bitcoin-cli','-generate', str(BLOCKS)], stdout=subprocess.PIPE).stdout.decode('utf-8')
         generatedJson = json.loads(generated)
         return generatedJson
     
@@ -50,8 +50,15 @@ class miner:
     
     def printBlockTimings(self, blockSpawnTimes):
         print(self.imageName)
-        for depth, time in self.blockReceivedTimings:
+        for depth, time in self.blockReceivedTimings.items():
+            print(depth)
             blockSpawn = blockSpawnTimes[depth]
+            print("blockspawn")
+            print(blockSpawn)
+            print(type(blockSpawn))
+            print("time")
+            print(time)
+            print(type(time))
             latency = time - blockSpawn
             print("block: ",depth,", latency: ",latency.total_seconds(),'s')
 
@@ -73,7 +80,7 @@ def generateBlockProportionately(hosts,probabilityTable, blockSpawnTimes):
 
 def checkIfBlockGen(currentBlockGenTime, chainDepth,hosts,probabilityTable, blockSpawnTimes):
     currentBlockLifespan = datetime.now() - currentBlockGenTime
-    if currentBlockGenTime > BLOCK_GEN_RATE:
+    if currentBlockLifespan > BLOCK_GEN_RATE:
         blockSpawnTimes = generateBlockProportionately(hosts,probabilityTable, blockSpawnTimes)
         return datetime.now(), chainDepth + 1, blockSpawnTimes
     else:
@@ -138,10 +145,12 @@ parser.add_argument('-A','--hosts',
 
 
 def main():
+    print('starting in main')
     args = parser.parse_args()
     NUMBER_OF_BLOCKS_TO_GEN = args.numBlocks
+    print(args.numBlocks)
     hostFile = args.hosts
-    
+    print(hostFile)
     hosts, probabilityTable = generateHosts(hostFile)
     probabilityTable = normalizeProbs(probabilityTable)
     blockSpawnTimes = []
@@ -162,5 +171,6 @@ def main():
         host.printBlockTimings(blockSpawnTimes)
         print()
 
-if __name__=='main':
+if __name__=="__main__":
+    print('calling main')
     main()
