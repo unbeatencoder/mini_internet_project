@@ -29,8 +29,9 @@ class miner:
         return self.ip
 
     def connectToNeighbors(self, hosts):
+        print('connecting neighbors for ',self.imageName)
         for host in hosts:
-            subprocess.run(['docker', 'exec', self.imageName, 'bitcoin-cli', 'addnode', host.ip, 'add'])
+            subprocess.run(['docker', 'exec', self.imageName, 'bitcoin-cli', 'addnode', host.ip+":8333", 'add'])
 
     def getInfo(self):
         info = subprocess.run(['docker', 'exec', self.imageName,'bitcoin-cli','-getinfo'], stdout=subprocess.PIPE).stdout.decode('utf-8')
@@ -62,7 +63,7 @@ class miner:
         print(self.imageName)
         for depth, time in self.blockReceivedTimings.items():
             # print(depth)
-            # blockSpawn = blockSpawnTimes[depth]
+            blockSpawn = blockSpawnTimes[depth]
             # print("blockspawn")
             # print(blockSpawn)
             # print(type(blockSpawn))
@@ -71,7 +72,7 @@ class miner:
             # print(type(time))
             # latency = time - blockSpawn
             # print("block: ",depth,", latency: ",latency.total_seconds(),'s')
-            print("block: ",depth,", time: ", time)
+            print("block: ",depth,", received time: ", time, ", spawn time: ", blockSpawn)
 
 
 def checkChainDepth(images):
