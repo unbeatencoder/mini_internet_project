@@ -1,0 +1,2 @@
+miner_151	tkann/btc-reg-d   UNIV15  ONLINESASFRSWITCH    10000    1000    10
+miner_152	tkann/btc-reg-d   UNIV15  ONLINESASFRSWITCH    10000    1000    10

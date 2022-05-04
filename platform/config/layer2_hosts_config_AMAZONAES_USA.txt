@@ -1,0 +1,3 @@
+miner_21	tkann/btc-reg-d   UNIV2   AMAZONAESUSASWITCH    10000    1000    10
+miner_22	tkann/btc-reg-d   UNIV2   AMAZONAESUSASWITCH    10000    1000    10
+miner_23	tkann/btc-reg-d   UNIV2   AMAZONAESUSASWITCH    10000    1000    10

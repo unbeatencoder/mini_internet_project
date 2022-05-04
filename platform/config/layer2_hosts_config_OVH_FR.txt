@@ -1,0 +1,13 @@
+miner_141	tkann/btc-reg-d   UNIV14  OVHFRSWITCH    10000    1000    10
+miner_142	tkann/btc-reg-d   UNIV14  OVHFRSWITCH    10000    1000    10
+miner_143	tkann/btc-reg-d   UNIV14  OVHFRSWITCH    10000    1000    10
+miner_144	tkann/btc-reg-d   UNIV14  OVHFRSWITCH    10000    1000    10
+miner_145	tkann/btc-reg-d   UNIV14  OVHFRSWITCH    10000    1000    10
+miner_146	tkann/btc-reg-d   UNIV14  OVHFRSWITCH    10000    1000    10
+miner_147	tkann/btc-reg-d   UNIV14  OVHFRSWITCH    10000    1000    10
+miner_148	tkann/btc-reg-d   UNIV14  OVHFRSWITCH    10000    1000    10
+miner_149	tkann/btc-reg-d   UNIV14  OVHFRSWITCH    10000    1000    10
+miner_1410	tkann/btc-reg-d   UNIV14  OVHFRSWITCH    10000    1000    10
+miner_1411	tkann/btc-reg-d   UNIV14  OVHFRSWITCH    10000    1000    10
+miner_1412	tkann/btc-reg-d   UNIV14  OVHFRSWITCH    10000    1000    10
+miner_1413	tkann/btc-reg-d   UNIV14  OVHFRSWITCH    10000    1000    10

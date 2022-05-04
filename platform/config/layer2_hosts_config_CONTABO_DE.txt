@@ -1,0 +1,6 @@
+miner_111	tkann/btc-reg-d   UNIV11  CONTABODESWITCH    10000    1000    10
+miner_112	tkann/btc-reg-d   UNIV11  CONTABODESWITCH    10000    1000    10
+miner_113	tkann/btc-reg-d   UNIV11  CONTABODESWITCH    10000    1000    10
+miner_114	tkann/btc-reg-d   UNIV11  CONTABODESWITCH    10000    1000    10
+miner_115	tkann/btc-reg-d   UNIV11  CONTABODESWITCH    10000    1000    10
+miner_116	tkann/btc-reg-d   UNIV11  CONTABODESWITCH    10000    1000    10
