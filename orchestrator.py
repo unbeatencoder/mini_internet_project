@@ -7,7 +7,9 @@ import pandas
 import re
 from datetime import datetime, timedelta
 import argparse
+import random
 
+from tomlkit import boolean
 
 
 
@@ -28,10 +30,14 @@ class miner:
         self.ip = re.findall('inet ([\d\.]*) ',eth)[0]
         return self.ip
 
-    def connectToNeighbors(self, hosts):
+    def connectToNeighbors(self, hosts, quickConnect = False):
         print('connecting neighbors for ',self.imageName)
-        for host in hosts:
-            subprocess.run(['docker', 'exec', self.imageName, 'bitcoin-cli', 'addnode', host.ip+":8333", 'add'])
+        if quickConnect:
+            for host in random.sample(hosts, 40):
+                subprocess.run(['docker', 'exec', self.imageName, 'bitcoin-cli', 'addnode', host.ip+":8333", 'add'])
+        else:
+            for host in hosts:
+                subprocess.run(['docker', 'exec', self.imageName, 'bitcoin-cli', 'addnode', host.ip+":8333", 'add'])
 
     def getInfo(self):
         info = subprocess.run(['docker', 'exec', self.imageName,'bitcoin-cli','-getinfo'], stdout=subprocess.PIPE).stdout.decode('utf-8')
@@ -137,13 +143,21 @@ parser.add_argument('-n', '--numblocks',
                     default = NUMBER_OF_BLOCKS_TO_GEN,
                     dest = 'numBlocks',
                     help = 'number of blocks to generate and test',
-                    type=int)
+                    type = int)
 
 parser.add_argument('-A','--hosts',
                     default = '',
                     dest = 'hosts',
                     help = 'location of the hostFile',
-                    type=str)
+                    type = str)
+
+parser.add_argument('-q', '--quickconnect',
+                    action = 'store_const',
+                    const = True,
+                    default = False,
+                    dest = 'quickConnect',
+                    help = 'connect to only 40 random other hosts durring connection false')
+
 
 
 def main():
@@ -159,7 +173,7 @@ def main():
 
     print('connecting hosts together')
     for host in hosts:
-        host.connectToNeighbors(hosts)
+        host.connectToNeighbors(hosts, args.quickConnect)
     
     
     print('stating experiment')
