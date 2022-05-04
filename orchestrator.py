@@ -21,7 +21,17 @@ class miner:
         self.imageName = imageName
         self.blockReceivedTimings = {0:0}
         self.blockDepth = 0
-    
+        info = subprocess.run(['docker', 'exec', self.imageName,'ifconfig'], stdout=subprocess.PIPE).stdout.decode('utf-8')
+
+    def getIP(self):
+        ethO = subprocess.run(['docker', 'exec', self.imageName, 'ifconfig', 'eth0'], stdout=subprocess.PIPE).stdout.decode('utf-8')
+        self.ip = re.findall('inet ([\d\.]*) ',ethO)[0]
+        return self.ip
+
+    def connectToNeighbors(self, hosts):
+        for host in hosts:
+            subprocess.run(['docker', 'exec', 'bitcoin-cli', 'addnode', host.ip, 'add'])
+
     def getInfo(self):
         info = subprocess.run(['docker', 'exec', self.imageName,'bitcoin-cli','-getinfo'], stdout=subprocess.PIPE).stdout.decode('utf-8')
         infoJson = json.loads(info)
@@ -68,6 +78,7 @@ def checkChainDepth(images):
         image.updateBlockTimings()
 
 def generateBlockProportionately(hosts,probabilityTable, blockSpawnTimes):
+    print('creating new block')
     randNum = np.random.random()
     for hostname,probability in probabilityTable.items():
         if randNum >= probability:
@@ -107,7 +118,9 @@ def generateHosts(hostFile):
     for i, row in hostsfileDF.iterrows():
         hostName = row['NAMES']
         if re.search('miner',hostName):
+            print('found host ', hostName)
             newMiner = miner(hostName)
+            netMiner.getIP()
             hosts.append(newMiner)
             probabilityTable[hostName] = np.random.random() #TODO shouldn't be random
     return hosts, probabilityTable
@@ -154,7 +167,13 @@ def main():
     hosts, probabilityTable = generateHosts(hostFile)
     probabilityTable = normalizeProbs(probabilityTable)
     blockSpawnTimes = []
+
+    print('connecting hosts together')
+    for host in hosts:
+        host.connectToNeighbors(hosts)
     
+    
+    print('stating experiment')
     ## start experiment timer
     startTime = datetime.now()
     
