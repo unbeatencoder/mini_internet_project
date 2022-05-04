@@ -61,16 +61,17 @@ class miner:
     def printBlockTimings(self, blockSpawnTimes):
         print(self.imageName)
         for depth, time in self.blockReceivedTimings.items():
-            print(depth)
-            blockSpawn = blockSpawnTimes[depth]
-            print("blockspawn")
-            print(blockSpawn)
-            print(type(blockSpawn))
-            print("time")
-            print(time)
-            print(type(time))
-            latency = time - blockSpawn
-            print("block: ",depth,", latency: ",latency.total_seconds(),'s')
+            # print(depth)
+            # blockSpawn = blockSpawnTimes[depth]
+            # print("blockspawn")
+            # print(blockSpawn)
+            # print(type(blockSpawn))
+            # print("time")
+            # print(time)
+            # print(type(time))
+            # latency = time - blockSpawn
+            # print("block: ",depth,", latency: ",latency.total_seconds(),'s')
+            print("block: ",depth,", time: ", time)
 
 
 def checkChainDepth(images):
