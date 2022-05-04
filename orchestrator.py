@@ -130,7 +130,7 @@ parser.add_argument('-n', '--numblocks',
                     help = 'number of blocks to generate and test',
                     type=int)
 
-parser.add_argument('-h','--hosts',
+parser.add_argument('-A','--hosts',
                     default = '',
                     dest = 'hosts',
                     help = 'location of the hostFile',
