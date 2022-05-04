@@ -108,7 +108,7 @@ def generateHosts(hostFile):
         if re.search('miner',hostName):
             print('found host ', hostName)
             newMiner = miner(hostName)
-            netMiner.getIP()
+            newMiner.getIP()
             hosts.append(newMiner)
             probabilityTable[hostName] = np.random.random() #TODO shouldn't be random
     return hosts, probabilityTable
