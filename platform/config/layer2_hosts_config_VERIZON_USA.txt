@@ -1,0 +1,4 @@
+miner_71	tkann/btc-reg-d   UNIV7   VERIZNS    10000    1000    10
+miner_72	tkann/btc-reg-d   UNIV7   VERIZNS    10000    1000    10
+miner_73	tkann/btc-reg-d   UNIV7   VERIZNS    10000    1000    10
+miner_74	tkann/btc-reg-d   UNIV7   VERIZNS    10000    1000    10

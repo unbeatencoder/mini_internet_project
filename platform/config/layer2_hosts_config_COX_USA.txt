@@ -1,0 +1,2 @@
+miner_91	tkann/btc-reg-d   UNIV9  COXS    10000    1000    10
+miner_92	tkann/btc-reg-d   UNIV9  COXS    10000    1000    10

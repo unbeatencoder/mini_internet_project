@@ -1,0 +1,13 @@
+miner_11	tkann/btc-reg-d   UNIV1   AMZN02S    10000    1000    10
+miner_12	tkann/btc-reg-d   UNIV1   AMZN02S    10000    1000    10
+miner_13	tkann/btc-reg-d   UNIV1   AMZN02S    10000    1000    10
+miner_14	tkann/btc-reg-d   UNIV1   AMZN02S    10000    1000    10
+miner_15	tkann/btc-reg-d   UNIV1   AMZN02S    10000    1000    10
+miner_16	tkann/btc-reg-d   UNIV1   AMZN02S    10000    1000    10
+miner_17	tkann/btc-reg-d   UNIV1   AMZN02S    10000    1000    10
+miner_18	tkann/btc-reg-d   UNIV1   AMZN02S    10000    1000    10
+miner_19	tkann/btc-reg-d   UNIV1   AMZN02S    10000    1000    10
+miner_110	tkann/btc-reg-d   UNIV1   AMZN02S    10000    1000    10
+miner_111	tkann/btc-reg-d   UNIV1   AMZN02S    10000    1000    10
+miner_112	tkann/btc-reg-d   UNIV1   AMZN02S    10000    1000    10
+miner_113	tkann/btc-reg-d   UNIV1   AMZN02S    10000    1000    10

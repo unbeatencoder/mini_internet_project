@@ -1,2 +1,0 @@
-student_21	tkann/btc-reg-d   UNIV3   CERN    10000    1000    10
-student_22	tkann/btc-reg-d   UNIV3   CERN    10000    1000    10

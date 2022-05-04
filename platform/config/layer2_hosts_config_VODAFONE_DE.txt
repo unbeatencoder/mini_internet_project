@@ -1,0 +1,2 @@
+miner_121	tkann/btc-reg-d   UNIV12  VODAS    10000    1000    10
+miner_122	tkann/btc-reg-d   UNIV12  VODAS    10000    1000    10
