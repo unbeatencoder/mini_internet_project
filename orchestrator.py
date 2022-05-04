@@ -30,7 +30,7 @@ class miner:
 
     def connectToNeighbors(self, hosts):
         for host in hosts:
-            subprocess.run(['docker', 'exec', 'bitcoin-cli', 'addnode', host.ip, 'add'])
+            subprocess.run(['docker', 'exec', self.imageName, 'bitcoin-cli', 'addnode', host.ip, 'add'])
 
     def getInfo(self):
         info = subprocess.run(['docker', 'exec', self.imageName,'bitcoin-cli','-getinfo'], stdout=subprocess.PIPE).stdout.decode('utf-8')
