@@ -47,13 +47,20 @@ class miner:
         if depth > self.blockDepth:
             self.blockDepth = depth
             self.blockReceivedTimings[depth] = datetime.now()
+    
+    def printBlockTimings(self, blockSpawnTimes):
+        print(self.imageName)
+        for depth, time in self.blockReceivedTimings:
+            blockSpawn = blockSpawnTimes[depth]
+            latency = time - blockSpawn
+            print("block: ",depth,", latency: ",latency.total_seconds(),'s')
 
 
 def checkChainDepth(images):
     for image in images:
         image.updateBlockTimings()
 
-def generateBlockProportionately(hosts,probabilityTable):
+def generateBlockProportionately(hosts,probabilityTable, blockSpawnTimes):
     randNum = np.random.random()
     for hostname,probability in probabilityTable.items():
         if randNum >= probability:
@@ -61,15 +68,16 @@ def generateBlockProportionately(hosts,probabilityTable):
         else:
             host = getHostByName(hosts,hostname)
             host.generateBlocks()
-            return
+            blockSpawnTimes.append(datetime.now())
+            return blockSpawnTimes
 
-def checkIfBlockGen(currentBlockGenTime, chainDepth,hosts,probabilityTable):
+def checkIfBlockGen(currentBlockGenTime, chainDepth,hosts,probabilityTable, blockSpawnTimes):
     currentBlockLifespan = datetime.now() - currentBlockGenTime
     if currentBlockGenTime > BLOCK_GEN_RATE:
-        generateBlockProportionately(hosts,probabilityTable)
-        return datetime.now(), chainDepth + 1
+        blockSpawnTimes = generateBlockProportionately(hosts,probabilityTable, blockSpawnTimes)
+        return datetime.now(), chainDepth + 1, blockSpawnTimes
     else:
-        return currentBlockGenTime, chainDepth
+        return currentBlockGenTime, chainDepth, blockSpawnTimes
 
 
 
@@ -129,25 +137,30 @@ parser.add_argument('-h','--hosts',
                     type=str)
 
 
-if __name__=='main':
+def main():
     args = parser.parse_args()
     NUMBER_OF_BLOCKS_TO_GEN = args.numBlocks
     hostFile = args.hosts
     
     hosts, probabilityTable = generateHosts(hostFile)
     probabilityTable = normalizeProbs(probabilityTable)
-
+    blockSpawnTimes = []
     
     ## start experiment timer
     startTime = datetime.now()
     
     ## generate the first block
-    generateBlockProportionately(miningPowerRatio)
+    blockSpawnTimes = generateBlockProportionately(hosts,probabilityTable,blockSpawnTimes)
     currentBlockGenTime = datetime.now()
     chainDepth = 1
     
     while (chainDepth < NUMBER_OF_BLOCKS_TO_GEN + 1):
         checkChainDepth(hosts)
-        currentBlockGenTime, chainDepth = checkIfBlockGen(currentBlockGenTime, chainDepth,hosts,probabilityTable)
+        currentBlockGenTime, chainDepth, blockSpawnTimes = checkIfBlockGen(currentBlockGenTime, chainDepth,hosts,probabilityTable, blockSpawnTimes)
 
+    for host in hosts:
+        host.printBlockTimings(blockSpawnTimes)
+        print()
 
+if __name__=='main':
+    main()
