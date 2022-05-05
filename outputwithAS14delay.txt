@@ -1,0 +1,2469 @@
+calling main
+starting in main
+20
+Bitcoin node information/topologycontainers.txt
+found host  15_L2_UNIV15_miner_152
+found host  15_L2_UNIV15_miner_151
+found host  14_L2_UNIV14_miner_1413
+found host  14_L2_UNIV14_miner_1412
+found host  14_L2_UNIV14_miner_1411
+found host  14_L2_UNIV14_miner_1410
+found host  14_L2_UNIV14_miner_149
+found host  14_L2_UNIV14_miner_148
+found host  14_L2_UNIV14_miner_147
+found host  14_L2_UNIV14_miner_146
+found host  14_L2_UNIV14_miner_145
+found host  14_L2_UNIV14_miner_144
+found host  14_L2_UNIV14_miner_143
+found host  14_L2_UNIV14_miner_142
+found host  14_L2_UNIV14_miner_141
+found host  13_L2_UNIV13_miner_132
+found host  13_L2_UNIV13_miner_131
+found host  12_L2_UNIV12_miner_122
+found host  12_L2_UNIV12_miner_121
+found host  11_L2_UNIV11_miner_116
+found host  11_L2_UNIV11_miner_115
+found host  11_L2_UNIV11_miner_114
+found host  11_L2_UNIV11_miner_113
+found host  11_L2_UNIV11_miner_112
+found host  11_L2_UNIV11_miner_111
+found host  10_L2_UNIV10_miner_1028
+found host  10_L2_UNIV10_miner_1027
+found host  10_L2_UNIV10_miner_1026
+found host  10_L2_UNIV10_miner_1025
+found host  10_L2_UNIV10_miner_1024
+found host  10_L2_UNIV10_miner_1023
+found host  10_L2_UNIV10_miner_1022
+found host  10_L2_UNIV10_miner_1021
+found host  10_L2_UNIV10_miner_1020
+found host  10_L2_UNIV10_miner_1019
+found host  10_L2_UNIV10_miner_1018
+found host  10_L2_UNIV10_miner_1017
+found host  10_L2_UNIV10_miner_1016
+found host  10_L2_UNIV10_miner_1015
+found host  10_L2_UNIV10_miner_1014
+found host  10_L2_UNIV10_miner_1013
+found host  10_L2_UNIV10_miner_1012
+found host  10_L2_UNIV10_miner_1011
+found host  10_L2_UNIV10_miner_1010
+found host  10_L2_UNIV10_miner_109
+found host  10_L2_UNIV10_miner_108
+found host  10_L2_UNIV10_miner_107
+found host  10_L2_UNIV10_miner_106
+found host  10_L2_UNIV10_miner_105
+found host  10_L2_UNIV10_miner_104
+found host  10_L2_UNIV10_miner_103
+found host  10_L2_UNIV10_miner_102
+found host  10_L2_UNIV10_miner_101
+found host  9_L2_UNIV9_miner_92
+found host  9_L2_UNIV9_miner_91
+found host  8_L2_UNIV8_miner_83
+found host  8_L2_UNIV8_miner_82
+found host  8_L2_UNIV8_miner_81
+found host  7_L2_UNIV7_miner_74
+found host  7_L2_UNIV7_miner_73
+found host  7_L2_UNIV7_miner_72
+found host  7_L2_UNIV7_miner_71
+found host  6_L2_UNIV6_miner_63
+found host  6_L2_UNIV6_miner_62
+found host  6_L2_UNIV6_miner_61
+found host  5_L2_UNIV5_miner_52
+found host  5_L2_UNIV5_miner_51
+found host  4_L2_UNIV4_miner_49
+found host  4_L2_UNIV4_miner_48
+found host  4_L2_UNIV4_miner_47
+found host  4_L2_UNIV4_miner_46
+found host  4_L2_UNIV4_miner_45
+found host  4_L2_UNIV4_miner_44
+found host  4_L2_UNIV4_miner_43
+found host  4_L2_UNIV4_miner_42
+found host  4_L2_UNIV4_miner_41
+found host  3_L2_UNIV3_miner_38
+found host  3_L2_UNIV3_miner_37
+found host  3_L2_UNIV3_miner_36
+found host  3_L2_UNIV3_miner_35
+found host  3_L2_UNIV3_miner_34
+found host  3_L2_UNIV3_miner_33
+found host  3_L2_UNIV3_miner_32
+found host  3_L2_UNIV3_miner_31
+found host  2_L2_UNIV2_miner_23
+found host  2_L2_UNIV2_miner_22
+found host  2_L2_UNIV2_miner_21
+found host  1_L2_UNIV1_miner_113
+found host  1_L2_UNIV1_miner_112
+found host  1_L2_UNIV1_miner_111
+found host  1_L2_UNIV1_miner_110
+found host  1_L2_UNIV1_miner_19
+found host  1_L2_UNIV1_miner_18
+found host  1_L2_UNIV1_miner_17
+found host  1_L2_UNIV1_miner_16
+found host  1_L2_UNIV1_miner_15
+found host  1_L2_UNIV1_miner_14
+found host  1_L2_UNIV1_miner_13
+found host  1_L2_UNIV1_miner_12
+found host  1_L2_UNIV1_miner_11
+connecting hosts together
+stating experiment
+creating new block
+15_L2_UNIV15_miner_152
+2022-05-04 21:57:55.549553
+creating new block
+15_L2_UNIV15_miner_152
+2022-05-04 21:58:09.822869
+creating new block
+15_L2_UNIV15_miner_152
+2022-05-04 21:58:23.942925
+creating new block
+15_L2_UNIV15_miner_152
+2022-05-04 21:58:38.146810
+creating new block
+15_L2_UNIV15_miner_152
+2022-05-04 21:58:52.623789
+creating new block
+15_L2_UNIV15_miner_152
+2022-05-04 21:59:06.771547
+creating new block
+15_L2_UNIV15_miner_151
+2022-05-04 21:59:21.207461
+creating new block
+15_L2_UNIV15_miner_152
+2022-05-04 21:59:35.883871
+creating new block
+15_L2_UNIV15_miner_152
+2022-05-04 21:59:50.391522
+creating new block
+15_L2_UNIV15_miner_151
+2022-05-04 22:00:04.849240
+creating new block
+15_L2_UNIV15_miner_152
+2022-05-04 22:00:19.169325
+creating new block
+15_L2_UNIV15_miner_152
+2022-05-04 22:00:33.617290
+creating new block
+15_L2_UNIV15_miner_152
+2022-05-04 22:00:48.116994
+creating new block
+15_L2_UNIV15_miner_152
+2022-05-04 22:01:02.445304
+creating new block
+15_L2_UNIV15_miner_151
+2022-05-04 22:01:16.667940
+creating new block
+15_L2_UNIV15_miner_151
+2022-05-04 22:01:31.075559
+creating new block
+15_L2_UNIV15_miner_152
+2022-05-04 22:01:45.479959
+creating new block
+15_L2_UNIV15_miner_152
+2022-05-04 22:02:00.085218
+creating new block
+15_L2_UNIV15_miner_151
+2022-05-04 22:02:14.485764
+creating new block
+15_L2_UNIV15_miner_152
+2022-05-04 22:02:28.880588
+creating new block
+15_L2_UNIV15_miner_152
+2022-05-04 22:02:43.185499
+15_L2_UNIV15_miner_152
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:55.667586
+block:  27 , received time:  2022-05-04 21:58:09.982574
+block:  28 , received time:  2022-05-04 21:58:24.079858
+block:  29 , received time:  2022-05-04 21:58:38.293955
+block:  30 , received time:  2022-05-04 21:58:52.791947
+block:  31 , received time:  2022-05-04 21:59:06.923883
+block:  32 , received time:  2022-05-04 21:59:21.338626
+block:  33 , received time:  2022-05-04 21:59:36.005923
+block:  34 , received time:  2022-05-04 21:59:50.524698
+block:  35 , received time:  2022-05-04 22:00:04.996889
+block:  36 , received time:  2022-05-04 22:00:19.286363
+block:  37 , received time:  2022-05-04 22:00:33.771981
+block:  38 , received time:  2022-05-04 22:00:48.282687
+block:  39 , received time:  2022-05-04 22:01:02.580021
+block:  40 , received time:  2022-05-04 22:01:16.814821
+block:  41 , received time:  2022-05-04 22:01:31.239196
+block:  42 , received time:  2022-05-04 22:01:45.649590
+block:  43 , received time:  2022-05-04 22:02:00.236120
+block:  44 , received time:  2022-05-04 22:02:14.638480
+block:  45 , received time:  2022-05-04 22:02:29.043170
+
+15_L2_UNIV15_miner_151
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:55.826762
+block:  27 , received time:  2022-05-04 21:58:10.118572
+block:  28 , received time:  2022-05-04 21:58:24.237138
+block:  29 , received time:  2022-05-04 21:58:38.442760
+block:  30 , received time:  2022-05-04 21:58:52.936662
+block:  31 , received time:  2022-05-04 21:59:07.059276
+block:  32 , received time:  2022-05-04 21:59:21.485887
+block:  33 , received time:  2022-05-04 21:59:36.156801
+block:  34 , received time:  2022-05-04 21:59:50.667114
+block:  35 , received time:  2022-05-04 22:00:05.142129
+block:  36 , received time:  2022-05-04 22:00:19.445586
+block:  37 , received time:  2022-05-04 22:00:33.917983
+block:  38 , received time:  2022-05-04 22:00:48.404646
+block:  39 , received time:  2022-05-04 22:01:02.729545
+block:  40 , received time:  2022-05-04 22:01:16.950728
+block:  41 , received time:  2022-05-04 22:01:31.407004
+block:  42 , received time:  2022-05-04 22:01:45.788616
+block:  43 , received time:  2022-05-04 22:02:00.373089
+block:  44 , received time:  2022-05-04 22:02:14.807972
+block:  45 , received time:  2022-05-04 22:02:29.196932
+
+14_L2_UNIV14_miner_1413
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:55.956654
+block:  27 , received time:  2022-05-04 21:58:10.276123
+block:  28 , received time:  2022-05-04 21:58:24.382122
+block:  29 , received time:  2022-05-04 21:58:38.583534
+block:  30 , received time:  2022-05-04 21:58:53.063016
+block:  31 , received time:  2022-05-04 21:59:07.210724
+block:  32 , received time:  2022-05-04 21:59:21.616840
+block:  33 , received time:  2022-05-04 21:59:36.304403
+block:  34 , received time:  2022-05-04 21:59:50.806229
+block:  35 , received time:  2022-05-04 22:00:05.262458
+block:  36 , received time:  2022-05-04 22:00:19.581850
+block:  37 , received time:  2022-05-04 22:00:34.073914
+block:  38 , received time:  2022-05-04 22:00:48.543966
+block:  39 , received time:  2022-05-04 22:01:02.875679
+block:  40 , received time:  2022-05-04 22:01:17.112858
+block:  41 , received time:  2022-05-04 22:01:31.545016
+block:  42 , received time:  2022-05-04 22:01:45.943209
+block:  43 , received time:  2022-05-04 22:02:00.519419
+block:  44 , received time:  2022-05-04 22:02:14.934122
+block:  45 , received time:  2022-05-04 22:02:29.334924
+
+14_L2_UNIV14_miner_1412
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:56.125323
+block:  27 , received time:  2022-05-04 21:58:10.433911
+block:  28 , received time:  2022-05-04 21:58:24.534186
+block:  29 , received time:  2022-05-04 21:58:38.736199
+block:  30 , received time:  2022-05-04 21:58:53.185772
+block:  31 , received time:  2022-05-04 21:59:07.347609
+block:  32 , received time:  2022-05-04 21:59:21.772186
+block:  33 , received time:  2022-05-04 21:59:36.453728
+block:  34 , received time:  2022-05-04 21:59:50.955081
+block:  35 , received time:  2022-05-04 22:00:05.413006
+block:  36 , received time:  2022-05-04 22:00:19.732862
+block:  37 , received time:  2022-05-04 22:00:34.195886
+block:  38 , received time:  2022-05-04 22:00:48.658739
+block:  39 , received time:  2022-05-04 22:01:03.021387
+block:  40 , received time:  2022-05-04 22:01:17.245888
+block:  41 , received time:  2022-05-04 22:01:31.671016
+block:  42 , received time:  2022-05-04 22:01:46.093882
+block:  43 , received time:  2022-05-04 22:02:00.660110
+block:  44 , received time:  2022-05-04 22:02:15.040146
+block:  45 , received time:  2022-05-04 22:02:29.447164
+
+14_L2_UNIV14_miner_1411
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:56.268806
+block:  27 , received time:  2022-05-04 21:58:10.605048
+block:  28 , received time:  2022-05-04 21:58:24.670709
+block:  29 , received time:  2022-05-04 21:58:38.876579
+block:  30 , received time:  2022-05-04 21:58:53.335715
+block:  31 , received time:  2022-05-04 21:59:07.510448
+block:  32 , received time:  2022-05-04 21:59:21.895684
+block:  33 , received time:  2022-05-04 21:59:36.607363
+block:  34 , received time:  2022-05-04 21:59:51.101293
+block:  35 , received time:  2022-05-04 22:00:05.558739
+block:  36 , received time:  2022-05-04 22:00:19.883289
+block:  37 , received time:  2022-05-04 22:00:34.332026
+block:  38 , received time:  2022-05-04 22:00:48.818876
+block:  39 , received time:  2022-05-04 22:01:03.172044
+block:  40 , received time:  2022-05-04 22:01:17.387053
+block:  41 , received time:  2022-05-04 22:01:31.829307
+block:  42 , received time:  2022-05-04 22:01:46.226483
+block:  43 , received time:  2022-05-04 22:02:00.795894
+block:  44 , received time:  2022-05-04 22:02:15.177382
+block:  45 , received time:  2022-05-04 22:02:29.607545
+
+14_L2_UNIV14_miner_1410
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:56.409602
+block:  27 , received time:  2022-05-04 21:58:10.766809
+block:  28 , received time:  2022-05-04 21:58:24.811142
+block:  29 , received time:  2022-05-04 21:58:39.014633
+block:  30 , received time:  2022-05-04 21:58:53.487428
+block:  31 , received time:  2022-05-04 21:59:07.666517
+block:  32 , received time:  2022-05-04 21:59:22.032074
+block:  33 , received time:  2022-05-04 21:59:36.754765
+block:  34 , received time:  2022-05-04 21:59:51.238484
+block:  35 , received time:  2022-05-04 22:00:05.677602
+block:  36 , received time:  2022-05-04 22:00:20.029640
+block:  37 , received time:  2022-05-04 22:00:34.459494
+block:  38 , received time:  2022-05-04 22:00:48.963326
+block:  39 , received time:  2022-05-04 22:01:03.318249
+block:  40 , received time:  2022-05-04 22:01:17.515846
+block:  41 , received time:  2022-05-04 22:01:31.959669
+block:  42 , received time:  2022-05-04 22:01:46.375954
+block:  43 , received time:  2022-05-04 22:02:00.936806
+block:  44 , received time:  2022-05-04 22:02:15.324960
+block:  45 , received time:  2022-05-04 22:02:29.770141
+
+14_L2_UNIV14_miner_149
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:56.561959
+block:  27 , received time:  2022-05-04 21:58:10.876679
+block:  28 , received time:  2022-05-04 21:58:24.951723
+block:  29 , received time:  2022-05-04 21:58:39.149739
+block:  30 , received time:  2022-05-04 21:58:53.599355
+block:  31 , received time:  2022-05-04 21:59:07.792433
+block:  32 , received time:  2022-05-04 21:59:22.189919
+block:  33 , received time:  2022-05-04 21:59:36.874268
+block:  34 , received time:  2022-05-04 21:59:51.375164
+block:  35 , received time:  2022-05-04 22:00:05.803726
+block:  36 , received time:  2022-05-04 22:00:20.177128
+block:  37 , received time:  2022-05-04 22:00:34.608785
+block:  38 , received time:  2022-05-04 22:00:49.096159
+block:  39 , received time:  2022-05-04 22:01:03.464450
+block:  40 , received time:  2022-05-04 22:01:17.654467
+block:  41 , received time:  2022-05-04 22:01:32.080774
+block:  42 , received time:  2022-05-04 22:01:46.527384
+block:  43 , received time:  2022-05-04 22:02:01.084677
+block:  44 , received time:  2022-05-04 22:02:15.465646
+block:  45 , received time:  2022-05-04 22:02:29.919297
+
+14_L2_UNIV14_miner_148
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:56.698789
+block:  27 , received time:  2022-05-04 21:58:11.036519
+block:  28 , received time:  2022-05-04 21:58:25.072939
+block:  29 , received time:  2022-05-04 21:58:39.304108
+block:  30 , received time:  2022-05-04 21:58:53.731748
+block:  31 , received time:  2022-05-04 21:59:07.932389
+block:  32 , received time:  2022-05-04 21:59:22.337268
+block:  33 , received time:  2022-05-04 21:59:36.992604
+block:  34 , received time:  2022-05-04 21:59:51.513018
+block:  35 , received time:  2022-05-04 22:00:05.949348
+block:  36 , received time:  2022-05-04 22:00:20.293940
+block:  37 , received time:  2022-05-04 22:00:34.740706
+block:  38 , received time:  2022-05-04 22:00:49.255424
+block:  39 , received time:  2022-05-04 22:01:03.607903
+block:  40 , received time:  2022-05-04 22:01:17.809908
+block:  41 , received time:  2022-05-04 22:01:32.201076
+block:  42 , received time:  2022-05-04 22:01:46.681901
+block:  43 , received time:  2022-05-04 22:02:01.234719
+block:  44 , received time:  2022-05-04 22:02:15.604657
+block:  45 , received time:  2022-05-04 22:02:30.084210
+
+14_L2_UNIV14_miner_147
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:56.857903
+block:  27 , received time:  2022-05-04 21:58:11.159150
+block:  28 , received time:  2022-05-04 21:58:25.233545
+block:  29 , received time:  2022-05-04 21:58:39.421257
+block:  30 , received time:  2022-05-04 21:58:53.890753
+block:  31 , received time:  2022-05-04 21:59:08.067890
+block:  32 , received time:  2022-05-04 21:59:22.470600
+block:  33 , received time:  2022-05-04 21:59:37.136748
+block:  34 , received time:  2022-05-04 21:59:51.663072
+block:  35 , received time:  2022-05-04 22:00:06.097109
+block:  36 , received time:  2022-05-04 22:00:20.437341
+block:  37 , received time:  2022-05-04 22:00:34.896009
+block:  38 , received time:  2022-05-04 22:00:49.412169
+block:  39 , received time:  2022-05-04 22:01:03.767152
+block:  40 , received time:  2022-05-04 22:01:17.964109
+block:  41 , received time:  2022-05-04 22:01:32.369788
+block:  42 , received time:  2022-05-04 22:01:46.821838
+block:  43 , received time:  2022-05-04 22:02:01.356135
+block:  44 , received time:  2022-05-04 22:02:15.725462
+block:  45 , received time:  2022-05-04 22:02:30.227008
+
+14_L2_UNIV14_miner_146
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:56.976230
+block:  27 , received time:  2022-05-04 21:58:11.311393
+block:  28 , received time:  2022-05-04 21:58:25.360035
+block:  29 , received time:  2022-05-04 21:58:39.566835
+block:  30 , received time:  2022-05-04 21:58:54.011994
+block:  31 , received time:  2022-05-04 21:59:08.202762
+block:  32 , received time:  2022-05-04 21:59:22.604330
+block:  33 , received time:  2022-05-04 21:59:37.274247
+block:  34 , received time:  2022-05-04 21:59:51.827974
+block:  35 , received time:  2022-05-04 22:00:06.244878
+block:  36 , received time:  2022-05-04 22:00:20.561729
+block:  37 , received time:  2022-05-04 22:00:35.040872
+block:  38 , received time:  2022-05-04 22:00:49.564527
+block:  39 , received time:  2022-05-04 22:01:03.911825
+block:  40 , received time:  2022-05-04 22:01:18.088202
+block:  41 , received time:  2022-05-04 22:01:32.511172
+block:  42 , received time:  2022-05-04 22:01:46.977003
+block:  43 , received time:  2022-05-04 22:02:01.507598
+block:  44 , received time:  2022-05-04 22:02:15.896711
+block:  45 , received time:  2022-05-04 22:02:30.378135
+
+14_L2_UNIV14_miner_145
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:57.104868
+block:  27 , received time:  2022-05-04 21:58:11.462973
+block:  28 , received time:  2022-05-04 21:58:25.511263
+block:  29 , received time:  2022-05-04 21:58:39.727174
+block:  30 , received time:  2022-05-04 21:58:54.137610
+block:  31 , received time:  2022-05-04 21:59:08.367061
+block:  32 , received time:  2022-05-04 21:59:22.727814
+block:  33 , received time:  2022-05-04 21:59:37.425173
+block:  34 , received time:  2022-05-04 21:59:51.940169
+block:  35 , received time:  2022-05-04 22:00:06.368662
+block:  36 , received time:  2022-05-04 22:00:20.730176
+block:  37 , received time:  2022-05-04 22:00:35.197756
+block:  38 , received time:  2022-05-04 22:00:49.695221
+block:  39 , received time:  2022-05-04 22:01:04.055653
+block:  40 , received time:  2022-05-04 22:01:18.253145
+block:  41 , received time:  2022-05-04 22:01:32.666778
+block:  42 , received time:  2022-05-04 22:01:47.126586
+block:  43 , received time:  2022-05-04 22:02:01.633111
+block:  44 , received time:  2022-05-04 22:02:16.041323
+block:  45 , received time:  2022-05-04 22:02:30.533319
+
+14_L2_UNIV14_miner_144
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:57.223308
+block:  27 , received time:  2022-05-04 21:58:11.611815
+block:  28 , received time:  2022-05-04 21:58:25.650980
+block:  29 , received time:  2022-05-04 21:58:39.865573
+block:  30 , received time:  2022-05-04 21:58:54.280953
+block:  31 , received time:  2022-05-04 21:59:08.519483
+block:  32 , received time:  2022-05-04 21:59:22.881163
+block:  33 , received time:  2022-05-04 21:59:37.575518
+block:  34 , received time:  2022-05-04 21:59:52.057814
+block:  35 , received time:  2022-05-04 22:00:06.527980
+block:  36 , received time:  2022-05-04 22:00:20.890950
+block:  37 , received time:  2022-05-04 22:00:35.368114
+block:  38 , received time:  2022-05-04 22:00:49.837590
+block:  39 , received time:  2022-05-04 22:01:04.205369
+block:  40 , received time:  2022-05-04 22:01:18.389894
+block:  41 , received time:  2022-05-04 22:01:32.795807
+block:  42 , received time:  2022-05-04 22:01:47.284104
+block:  43 , received time:  2022-05-04 22:02:01.779903
+block:  44 , received time:  2022-05-04 22:02:16.162944
+block:  45 , received time:  2022-05-04 22:02:30.656163
+
+14_L2_UNIV14_miner_143
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:57.361471
+block:  27 , received time:  2022-05-04 21:58:11.755736
+block:  28 , received time:  2022-05-04 21:58:25.813164
+block:  29 , received time:  2022-05-04 21:58:40.008948
+block:  30 , received time:  2022-05-04 21:58:54.405834
+block:  31 , received time:  2022-05-04 21:59:08.654573
+block:  32 , received time:  2022-05-04 21:59:23.048139
+block:  33 , received time:  2022-05-04 21:59:37.733621
+block:  34 , received time:  2022-05-04 21:59:52.201662
+block:  35 , received time:  2022-05-04 22:00:06.701689
+block:  36 , received time:  2022-05-04 22:00:21.040618
+block:  37 , received time:  2022-05-04 22:00:35.520120
+block:  38 , received time:  2022-05-04 22:00:49.992006
+block:  39 , received time:  2022-05-04 22:01:04.358415
+block:  40 , received time:  2022-05-04 22:01:18.559243
+block:  41 , received time:  2022-05-04 22:01:32.924798
+block:  42 , received time:  2022-05-04 22:01:47.421288
+block:  43 , received time:  2022-05-04 22:02:01.925157
+block:  44 , received time:  2022-05-04 22:02:16.300132
+block:  45 , received time:  2022-05-04 22:02:30.774441
+
+14_L2_UNIV14_miner_142
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:57.497220
+block:  27 , received time:  2022-05-04 21:58:11.900546
+block:  28 , received time:  2022-05-04 21:58:25.965861
+block:  29 , received time:  2022-05-04 21:58:40.151558
+block:  30 , received time:  2022-05-04 21:58:54.528069
+block:  31 , received time:  2022-05-04 21:59:08.818806
+block:  32 , received time:  2022-05-04 21:59:23.190015
+block:  33 , received time:  2022-05-04 21:59:37.857360
+block:  34 , received time:  2022-05-04 21:59:52.357135
+block:  35 , received time:  2022-05-04 22:00:06.827281
+block:  36 , received time:  2022-05-04 22:00:21.183063
+block:  37 , received time:  2022-05-04 22:00:35.657228
+block:  38 , received time:  2022-05-04 22:00:50.142224
+block:  39 , received time:  2022-05-04 22:01:04.482442
+block:  40 , received time:  2022-05-04 22:01:18.690558
+block:  41 , received time:  2022-05-04 22:01:33.050461
+block:  42 , received time:  2022-05-04 22:01:47.571089
+block:  43 , received time:  2022-05-04 22:02:02.058337
+block:  44 , received time:  2022-05-04 22:02:16.444177
+block:  45 , received time:  2022-05-04 22:02:30.924002
+
+14_L2_UNIV14_miner_141
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:57.661071
+block:  27 , received time:  2022-05-04 21:58:12.017939
+block:  28 , received time:  2022-05-04 21:58:26.120634
+block:  29 , received time:  2022-05-04 21:58:40.321089
+block:  30 , received time:  2022-05-04 21:58:54.673112
+block:  31 , received time:  2022-05-04 21:59:08.945184
+block:  32 , received time:  2022-05-04 21:59:23.347055
+block:  33 , received time:  2022-05-04 21:59:37.978556
+block:  34 , received time:  2022-05-04 21:59:52.496569
+block:  35 , received time:  2022-05-04 22:00:06.981311
+block:  36 , received time:  2022-05-04 22:00:21.302369
+block:  37 , received time:  2022-05-04 22:00:35.809941
+block:  38 , received time:  2022-05-04 22:00:50.298037
+block:  39 , received time:  2022-05-04 22:01:04.631176
+block:  40 , received time:  2022-05-04 22:01:18.838256
+block:  41 , received time:  2022-05-04 22:01:33.212639
+block:  42 , received time:  2022-05-04 22:01:47.724689
+block:  43 , received time:  2022-05-04 22:02:02.207028
+block:  44 , received time:  2022-05-04 22:02:16.591672
+block:  45 , received time:  2022-05-04 22:02:31.047667
+
+13_L2_UNIV13_miner_132
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:57.780023
+block:  27 , received time:  2022-05-04 21:58:12.185273
+block:  28 , received time:  2022-05-04 21:58:26.246453
+block:  29 , received time:  2022-05-04 21:58:40.453628
+block:  30 , received time:  2022-05-04 21:58:54.825834
+block:  31 , received time:  2022-05-04 21:59:09.071288
+block:  32 , received time:  2022-05-04 21:59:23.486499
+block:  33 , received time:  2022-05-04 21:59:38.113228
+block:  34 , received time:  2022-05-04 21:59:52.653028
+block:  35 , received time:  2022-05-04 22:00:07.133094
+block:  36 , received time:  2022-05-04 22:00:21.454014
+block:  37 , received time:  2022-05-04 22:00:35.977036
+block:  38 , received time:  2022-05-04 22:00:50.430230
+block:  39 , received time:  2022-05-04 22:01:04.781053
+block:  40 , received time:  2022-05-04 22:01:18.997099
+block:  41 , received time:  2022-05-04 22:01:33.365537
+block:  42 , received time:  2022-05-04 22:01:47.865752
+block:  43 , received time:  2022-05-04 22:02:02.365431
+block:  44 , received time:  2022-05-04 22:02:16.724100
+block:  45 , received time:  2022-05-04 22:02:31.182245
+
+13_L2_UNIV13_miner_131
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:57.891239
+block:  27 , received time:  2022-05-04 21:58:12.320743
+block:  28 , received time:  2022-05-04 21:58:26.378853
+block:  29 , received time:  2022-05-04 21:58:40.572864
+block:  30 , received time:  2022-05-04 21:58:54.963293
+block:  31 , received time:  2022-05-04 21:59:09.227439
+block:  32 , received time:  2022-05-04 21:59:23.625525
+block:  33 , received time:  2022-05-04 21:59:38.236927
+block:  34 , received time:  2022-05-04 21:59:52.780126
+block:  35 , received time:  2022-05-04 22:00:07.289116
+block:  36 , received time:  2022-05-04 22:00:21.592993
+block:  37 , received time:  2022-05-04 22:00:36.129211
+block:  38 , received time:  2022-05-04 22:00:50.586344
+block:  39 , received time:  2022-05-04 22:01:04.904427
+block:  40 , received time:  2022-05-04 22:01:19.148127
+block:  41 , received time:  2022-05-04 22:01:33.503071
+block:  42 , received time:  2022-05-04 22:01:48.015908
+block:  43 , received time:  2022-05-04 22:02:02.515011
+block:  44 , received time:  2022-05-04 22:02:16.871674
+block:  45 , received time:  2022-05-04 22:02:31.312392
+
+12_L2_UNIV12_miner_122
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:58.036041
+block:  27 , received time:  2022-05-04 21:58:12.469985
+block:  28 , received time:  2022-05-04 21:58:26.503792
+block:  29 , received time:  2022-05-04 21:58:40.718413
+block:  30 , received time:  2022-05-04 21:58:55.122487
+block:  31 , received time:  2022-05-04 21:59:09.373118
+block:  32 , received time:  2022-05-04 21:59:23.767145
+block:  33 , received time:  2022-05-04 21:59:38.369353
+block:  34 , received time:  2022-05-04 21:59:52.916446
+block:  35 , received time:  2022-05-04 22:00:07.434897
+block:  36 , received time:  2022-05-04 22:00:21.720153
+block:  37 , received time:  2022-05-04 22:00:36.257027
+block:  38 , received time:  2022-05-04 22:00:50.721979
+block:  39 , received time:  2022-05-04 22:01:05.046712
+block:  40 , received time:  2022-05-04 22:01:19.268006
+block:  41 , received time:  2022-05-04 22:01:33.633905
+block:  42 , received time:  2022-05-04 22:01:48.170718
+block:  43 , received time:  2022-05-04 22:02:02.654726
+block:  44 , received time:  2022-05-04 22:02:16.990187
+block:  45 , received time:  2022-05-04 22:02:31.466431
+
+12_L2_UNIV12_miner_121
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:58.190698
+block:  27 , received time:  2022-05-04 21:58:12.596723
+block:  28 , received time:  2022-05-04 21:58:26.647825
+block:  29 , received time:  2022-05-04 21:58:40.868216
+block:  30 , received time:  2022-05-04 21:58:55.276662
+block:  31 , received time:  2022-05-04 21:59:09.522445
+block:  32 , received time:  2022-05-04 21:59:23.912090
+block:  33 , received time:  2022-05-04 21:59:38.521867
+block:  34 , received time:  2022-05-04 21:59:53.044761
+block:  35 , received time:  2022-05-04 22:00:07.556240
+block:  36 , received time:  2022-05-04 22:00:21.863483
+block:  37 , received time:  2022-05-04 22:00:36.408199
+block:  38 , received time:  2022-05-04 22:00:50.880724
+block:  39 , received time:  2022-05-04 22:01:05.196255
+block:  40 , received time:  2022-05-04 22:01:19.432357
+block:  41 , received time:  2022-05-04 22:01:33.762493
+block:  42 , received time:  2022-05-04 22:01:48.310757
+block:  43 , received time:  2022-05-04 22:02:02.776850
+block:  44 , received time:  2022-05-04 22:02:17.130334
+block:  45 , received time:  2022-05-04 22:02:31.635786
+
+11_L2_UNIV11_miner_116
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:58.325034
+block:  27 , received time:  2022-05-04 21:58:12.746969
+block:  28 , received time:  2022-05-04 21:58:26.793676
+block:  29 , received time:  2022-05-04 21:58:41.003046
+block:  30 , received time:  2022-05-04 21:58:55.399310
+block:  31 , received time:  2022-05-04 21:59:09.654796
+block:  32 , received time:  2022-05-04 21:59:24.069339
+block:  33 , received time:  2022-05-04 21:59:38.682525
+block:  34 , received time:  2022-05-04 21:59:53.188701
+block:  35 , received time:  2022-05-04 22:00:07.694231
+block:  36 , received time:  2022-05-04 22:00:21.986668
+block:  37 , received time:  2022-05-04 22:00:36.552747
+block:  38 , received time:  2022-05-04 22:00:51.012084
+block:  39 , received time:  2022-05-04 22:01:05.336039
+block:  40 , received time:  2022-05-04 22:01:19.575097
+block:  41 , received time:  2022-05-04 22:01:33.912177
+block:  42 , received time:  2022-05-04 22:01:48.428341
+block:  43 , received time:  2022-05-04 22:02:02.908120
+block:  44 , received time:  2022-05-04 22:02:17.287483
+block:  45 , received time:  2022-05-04 22:02:31.766110
+
+11_L2_UNIV11_miner_115
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:58.459164
+block:  27 , received time:  2022-05-04 21:58:12.878338
+block:  28 , received time:  2022-05-04 21:58:26.928088
+block:  29 , received time:  2022-05-04 21:58:41.133351
+block:  30 , received time:  2022-05-04 21:58:55.545040
+block:  31 , received time:  2022-05-04 21:59:09.781636
+block:  32 , received time:  2022-05-04 21:59:24.182846
+block:  33 , received time:  2022-05-04 21:59:38.824025
+block:  34 , received time:  2022-05-04 21:59:53.347129
+block:  35 , received time:  2022-05-04 22:00:07.861505
+block:  36 , received time:  2022-05-04 22:00:22.113064
+block:  37 , received time:  2022-05-04 22:00:36.676968
+block:  38 , received time:  2022-05-04 22:00:51.129963
+block:  39 , received time:  2022-05-04 22:01:05.465024
+block:  40 , received time:  2022-05-04 22:01:19.717582
+block:  41 , received time:  2022-05-04 22:01:34.048877
+block:  42 , received time:  2022-05-04 22:01:48.561385
+block:  43 , received time:  2022-05-04 22:02:03.034468
+block:  44 , received time:  2022-05-04 22:02:17.432352
+block:  45 , received time:  2022-05-04 22:02:31.901867
+
+11_L2_UNIV11_miner_114
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:58.599518
+block:  27 , received time:  2022-05-04 21:58:13.042851
+block:  28 , received time:  2022-05-04 21:58:27.066080
+block:  29 , received time:  2022-05-04 21:58:41.277021
+block:  30 , received time:  2022-05-04 21:58:55.652412
+block:  31 , received time:  2022-05-04 21:59:09.928269
+block:  32 , received time:  2022-05-04 21:59:24.341690
+block:  33 , received time:  2022-05-04 21:59:39.001674
+block:  34 , received time:  2022-05-04 21:59:53.498978
+block:  35 , received time:  2022-05-04 22:00:07.975507
+block:  36 , received time:  2022-05-04 22:00:22.279596
+block:  37 , received time:  2022-05-04 22:00:36.836870
+block:  38 , received time:  2022-05-04 22:00:51.266614
+block:  39 , received time:  2022-05-04 22:01:05.594971
+block:  40 , received time:  2022-05-04 22:01:19.854901
+block:  41 , received time:  2022-05-04 22:01:34.171018
+block:  42 , received time:  2022-05-04 22:01:48.711167
+block:  43 , received time:  2022-05-04 22:02:03.183679
+block:  44 , received time:  2022-05-04 22:02:17.593457
+block:  45 , received time:  2022-05-04 22:02:32.052425
+
+11_L2_UNIV11_miner_113
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:58.728464
+block:  27 , received time:  2022-05-04 21:58:13.177915
+block:  28 , received time:  2022-05-04 21:58:27.239476
+block:  29 , received time:  2022-05-04 21:58:41.413076
+block:  30 , received time:  2022-05-04 21:58:55.811645
+block:  31 , received time:  2022-05-04 21:59:10.056522
+block:  32 , received time:  2022-05-04 21:59:24.482863
+block:  33 , received time:  2022-05-04 21:59:39.159363
+block:  34 , received time:  2022-05-04 21:59:53.651105
+block:  35 , received time:  2022-05-04 22:00:08.095447
+block:  36 , received time:  2022-05-04 22:00:22.401768
+block:  37 , received time:  2022-05-04 22:00:36.967888
+block:  38 , received time:  2022-05-04 22:00:51.432388
+block:  39 , received time:  2022-05-04 22:01:05.751549
+block:  40 , received time:  2022-05-04 22:01:19.984834
+block:  41 , received time:  2022-05-04 22:01:34.310949
+block:  42 , received time:  2022-05-04 22:01:48.864065
+block:  43 , received time:  2022-05-04 22:02:03.308244
+block:  44 , received time:  2022-05-04 22:02:17.733556
+block:  45 , received time:  2022-05-04 22:02:32.196283
+
+11_L2_UNIV11_miner_112
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:58.878721
+block:  27 , received time:  2022-05-04 21:58:13.281376
+block:  28 , received time:  2022-05-04 21:58:27.398315
+block:  29 , received time:  2022-05-04 21:58:41.576195
+block:  30 , received time:  2022-05-04 21:58:55.953805
+block:  31 , received time:  2022-05-04 21:59:10.214156
+block:  32 , received time:  2022-05-04 21:59:24.630906
+block:  33 , received time:  2022-05-04 21:59:39.310740
+block:  34 , received time:  2022-05-04 21:59:53.819798
+block:  35 , received time:  2022-05-04 22:00:08.224041
+block:  36 , received time:  2022-05-04 22:00:22.541391
+block:  37 , received time:  2022-05-04 22:00:37.081102
+block:  38 , received time:  2022-05-04 22:00:51.591555
+block:  39 , received time:  2022-05-04 22:01:05.901349
+block:  40 , received time:  2022-05-04 22:01:20.113264
+block:  41 , received time:  2022-05-04 22:01:34.478927
+block:  42 , received time:  2022-05-04 22:01:48.995774
+block:  43 , received time:  2022-05-04 22:02:03.431816
+block:  44 , received time:  2022-05-04 22:02:17.874020
+block:  45 , received time:  2022-05-04 22:02:32.329269
+
+11_L2_UNIV11_miner_111
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:59.001792
+block:  27 , received time:  2022-05-04 21:58:13.424146
+block:  28 , received time:  2022-05-04 21:58:27.505352
+block:  29 , received time:  2022-05-04 21:58:41.710102
+block:  30 , received time:  2022-05-04 21:58:56.078897
+block:  31 , received time:  2022-05-04 21:59:10.346527
+block:  32 , received time:  2022-05-04 21:59:24.796054
+block:  33 , received time:  2022-05-04 21:59:39.475317
+block:  34 , received time:  2022-05-04 21:59:53.959127
+block:  35 , received time:  2022-05-04 22:00:08.375395
+block:  36 , received time:  2022-05-04 22:00:22.697687
+block:  37 , received time:  2022-05-04 22:00:37.235622
+block:  38 , received time:  2022-05-04 22:00:51.705329
+block:  39 , received time:  2022-05-04 22:01:06.021280
+block:  40 , received time:  2022-05-04 22:01:20.262404
+block:  41 , received time:  2022-05-04 22:01:34.619096
+block:  42 , received time:  2022-05-04 22:01:49.153387
+block:  43 , received time:  2022-05-04 22:02:03.585656
+block:  44 , received time:  2022-05-04 22:02:18.025836
+block:  45 , received time:  2022-05-04 22:02:32.483990
+
+10_L2_UNIV10_miner_1028
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:59.156893
+block:  27 , received time:  2022-05-04 21:58:13.578901
+block:  28 , received time:  2022-05-04 21:58:27.657844
+block:  29 , received time:  2022-05-04 21:58:41.841646
+block:  30 , received time:  2022-05-04 21:58:56.228797
+block:  31 , received time:  2022-05-04 21:59:10.496973
+block:  32 , received time:  2022-05-04 21:59:24.935289
+block:  33 , received time:  2022-05-04 21:59:39.625216
+block:  34 , received time:  2022-05-04 21:59:54.104728
+block:  35 , received time:  2022-05-04 22:00:08.487044
+block:  36 , received time:  2022-05-04 22:00:22.831527
+block:  37 , received time:  2022-05-04 22:00:37.385745
+block:  38 , received time:  2022-05-04 22:00:51.869022
+block:  39 , received time:  2022-05-04 22:01:06.164915
+block:  40 , received time:  2022-05-04 22:01:20.402886
+block:  41 , received time:  2022-05-04 22:01:34.763141
+block:  42 , received time:  2022-05-04 22:01:49.282450
+block:  43 , received time:  2022-05-04 22:02:03.737736
+block:  44 , received time:  2022-05-04 22:02:18.154694
+block:  45 , received time:  2022-05-04 22:02:32.632649
+
+10_L2_UNIV10_miner_1027
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:59.293207
+block:  27 , received time:  2022-05-04 21:58:13.717371
+block:  28 , received time:  2022-05-04 21:58:27.792233
+block:  29 , received time:  2022-05-04 21:58:41.997650
+block:  30 , received time:  2022-05-04 21:58:56.333538
+block:  31 , received time:  2022-05-04 21:59:10.655135
+block:  32 , received time:  2022-05-04 21:59:25.095519
+block:  33 , received time:  2022-05-04 21:59:39.759016
+block:  34 , received time:  2022-05-04 21:59:54.236401
+block:  35 , received time:  2022-05-04 22:00:08.629494
+block:  36 , received time:  2022-05-04 22:00:22.981419
+block:  37 , received time:  2022-05-04 22:00:37.528231
+block:  38 , received time:  2022-05-04 22:00:52.009633
+block:  39 , received time:  2022-05-04 22:01:06.294676
+block:  40 , received time:  2022-05-04 22:01:20.541576
+block:  41 , received time:  2022-05-04 22:01:34.916142
+block:  42 , received time:  2022-05-04 22:01:49.402897
+block:  43 , received time:  2022-05-04 22:02:03.851474
+block:  44 , received time:  2022-05-04 22:02:18.297752
+block:  45 , received time:  2022-05-04 22:02:32.761765
+
+10_L2_UNIV10_miner_1026
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:59.425189
+block:  27 , received time:  2022-05-04 21:58:13.846757
+block:  28 , received time:  2022-05-04 21:58:27.922910
+block:  29 , received time:  2022-05-04 21:58:42.123187
+block:  30 , received time:  2022-05-04 21:58:56.480192
+block:  31 , received time:  2022-05-04 21:59:10.799343
+block:  32 , received time:  2022-05-04 21:59:25.243527
+block:  33 , received time:  2022-05-04 21:59:39.901731
+block:  34 , received time:  2022-05-04 21:59:54.378760
+block:  35 , received time:  2022-05-04 22:00:08.755509
+block:  36 , received time:  2022-05-04 22:00:23.124946
+block:  37 , received time:  2022-05-04 22:00:37.668217
+block:  38 , received time:  2022-05-04 22:00:52.161209
+block:  39 , received time:  2022-05-04 22:01:06.446127
+block:  40 , received time:  2022-05-04 22:01:20.698367
+block:  41 , received time:  2022-05-04 22:01:35.058476
+block:  42 , received time:  2022-05-04 22:01:49.545724
+block:  43 , received time:  2022-05-04 22:02:03.996489
+block:  44 , received time:  2022-05-04 22:02:18.433300
+block:  45 , received time:  2022-05-04 22:02:32.904377
+
+10_L2_UNIV10_miner_1025
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:59.591773
+block:  27 , received time:  2022-05-04 21:58:13.985371
+block:  28 , received time:  2022-05-04 21:58:28.055753
+block:  29 , received time:  2022-05-04 21:58:42.274765
+block:  30 , received time:  2022-05-04 21:58:56.596360
+block:  31 , received time:  2022-05-04 21:59:10.933829
+block:  32 , received time:  2022-05-04 21:59:25.371903
+block:  33 , received time:  2022-05-04 21:59:40.048723
+block:  34 , received time:  2022-05-04 21:59:54.510141
+block:  35 , received time:  2022-05-04 22:00:08.887860
+block:  36 , received time:  2022-05-04 22:00:23.276061
+block:  37 , received time:  2022-05-04 22:00:37.817748
+block:  38 , received time:  2022-05-04 22:00:52.309816
+block:  39 , received time:  2022-05-04 22:01:06.570914
+block:  40 , received time:  2022-05-04 22:01:20.832950
+block:  41 , received time:  2022-05-04 22:01:35.181076
+block:  42 , received time:  2022-05-04 22:01:49.696731
+block:  43 , received time:  2022-05-04 22:02:04.135361
+block:  44 , received time:  2022-05-04 22:02:18.567236
+block:  45 , received time:  2022-05-04 22:02:33.055187
+
+10_L2_UNIV10_miner_1024
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:59.712799
+block:  27 , received time:  2022-05-04 21:58:14.116905
+block:  28 , received time:  2022-05-04 21:58:28.210143
+block:  29 , received time:  2022-05-04 21:58:42.422957
+block:  30 , received time:  2022-05-04 21:58:56.715662
+block:  31 , received time:  2022-05-04 21:59:11.081827
+block:  32 , received time:  2022-05-04 21:59:25.519184
+block:  33 , received time:  2022-05-04 21:59:40.168288
+block:  34 , received time:  2022-05-04 21:59:54.647673
+block:  35 , received time:  2022-05-04 22:00:09.015590
+block:  36 , received time:  2022-05-04 22:00:23.416874
+block:  37 , received time:  2022-05-04 22:00:37.960451
+block:  38 , received time:  2022-05-04 22:00:52.448953
+block:  39 , received time:  2022-05-04 22:01:06.732529
+block:  40 , received time:  2022-05-04 22:01:20.956157
+block:  41 , received time:  2022-05-04 22:01:35.316641
+block:  42 , received time:  2022-05-04 22:01:49.855738
+block:  43 , received time:  2022-05-04 22:02:04.307109
+block:  44 , received time:  2022-05-04 22:02:18.739908
+block:  45 , received time:  2022-05-04 22:02:33.201391
+
+10_L2_UNIV10_miner_1023
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:59.836587
+block:  27 , received time:  2022-05-04 21:58:14.245235
+block:  28 , received time:  2022-05-04 21:58:28.365261
+block:  29 , received time:  2022-05-04 21:58:42.567590
+block:  30 , received time:  2022-05-04 21:58:56.836593
+block:  31 , received time:  2022-05-04 21:59:11.199249
+block:  32 , received time:  2022-05-04 21:59:25.689568
+block:  33 , received time:  2022-05-04 21:59:40.317696
+block:  34 , received time:  2022-05-04 21:59:54.779481
+block:  35 , received time:  2022-05-04 22:00:09.138549
+block:  36 , received time:  2022-05-04 22:00:23.556066
+block:  37 , received time:  2022-05-04 22:00:38.093359
+block:  38 , received time:  2022-05-04 22:00:52.611273
+block:  39 , received time:  2022-05-04 22:01:06.879982
+block:  40 , received time:  2022-05-04 22:01:21.112495
+block:  41 , received time:  2022-05-04 22:01:35.466788
+block:  42 , received time:  2022-05-04 22:01:50.008120
+block:  43 , received time:  2022-05-04 22:02:04.444437
+block:  44 , received time:  2022-05-04 22:02:18.887357
+block:  45 , received time:  2022-05-04 22:02:33.323218
+
+10_L2_UNIV10_miner_1022
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:57:59.992098
+block:  27 , received time:  2022-05-04 21:58:14.370626
+block:  28 , received time:  2022-05-04 21:58:28.484108
+block:  29 , received time:  2022-05-04 21:58:42.729324
+block:  30 , received time:  2022-05-04 21:58:56.967110
+block:  31 , received time:  2022-05-04 21:59:11.362995
+block:  32 , received time:  2022-05-04 21:59:25.847308
+block:  33 , received time:  2022-05-04 21:59:40.487916
+block:  34 , received time:  2022-05-04 21:59:54.932614
+block:  35 , received time:  2022-05-04 22:00:09.272423
+block:  36 , received time:  2022-05-04 22:00:23.682903
+block:  37 , received time:  2022-05-04 22:00:38.248721
+block:  38 , received time:  2022-05-04 22:00:52.761295
+block:  39 , received time:  2022-05-04 22:01:07.032149
+block:  40 , received time:  2022-05-04 22:01:21.253647
+block:  41 , received time:  2022-05-04 22:01:35.627360
+block:  42 , received time:  2022-05-04 22:01:50.149158
+block:  43 , received time:  2022-05-04 22:02:04.581840
+block:  44 , received time:  2022-05-04 22:02:19.045627
+block:  45 , received time:  2022-05-04 22:02:33.452388
+
+10_L2_UNIV10_miner_1021
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:00.111362
+block:  27 , received time:  2022-05-04 21:58:14.536052
+block:  28 , received time:  2022-05-04 21:58:28.619222
+block:  29 , received time:  2022-05-04 21:58:42.856680
+block:  30 , received time:  2022-05-04 21:58:57.119351
+block:  31 , received time:  2022-05-04 21:59:11.512208
+block:  32 , received time:  2022-05-04 21:59:25.978024
+block:  33 , received time:  2022-05-04 21:59:40.620821
+block:  34 , received time:  2022-05-04 21:59:55.051664
+block:  35 , received time:  2022-05-04 22:00:09.420398
+block:  36 , received time:  2022-05-04 22:00:23.839925
+block:  37 , received time:  2022-05-04 22:00:38.405887
+block:  38 , received time:  2022-05-04 22:00:52.880510
+block:  39 , received time:  2022-05-04 22:01:07.190827
+block:  40 , received time:  2022-05-04 22:01:21.389614
+block:  41 , received time:  2022-05-04 22:01:35.757347
+block:  42 , received time:  2022-05-04 22:01:50.311276
+block:  43 , received time:  2022-05-04 22:02:04.724833
+block:  44 , received time:  2022-05-04 22:02:19.184166
+block:  45 , received time:  2022-05-04 22:02:33.572240
+
+10_L2_UNIV10_miner_1020
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:00.266087
+block:  27 , received time:  2022-05-04 21:58:14.678345
+block:  28 , received time:  2022-05-04 21:58:28.770620
+block:  29 , received time:  2022-05-04 21:58:42.987261
+block:  30 , received time:  2022-05-04 21:58:57.248939
+block:  31 , received time:  2022-05-04 21:59:11.653933
+block:  32 , received time:  2022-05-04 21:59:26.095028
+block:  33 , received time:  2022-05-04 21:59:40.776731
+block:  34 , received time:  2022-05-04 21:59:55.195514
+block:  35 , received time:  2022-05-04 22:00:09.572525
+block:  36 , received time:  2022-05-04 22:00:23.994112
+block:  37 , received time:  2022-05-04 22:00:38.540005
+block:  38 , received time:  2022-05-04 22:00:53.000002
+block:  39 , received time:  2022-05-04 22:01:07.339840
+block:  40 , received time:  2022-05-04 22:01:21.550073
+block:  41 , received time:  2022-05-04 22:01:35.911177
+block:  42 , received time:  2022-05-04 22:01:50.460663
+block:  43 , received time:  2022-05-04 22:02:04.876518
+block:  44 , received time:  2022-05-04 22:02:19.334091
+block:  45 , received time:  2022-05-04 22:02:33.715702
+
+10_L2_UNIV10_miner_1019
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:00.404341
+block:  27 , received time:  2022-05-04 21:58:14.806717
+block:  28 , received time:  2022-05-04 21:58:28.923139
+block:  29 , received time:  2022-05-04 21:58:43.112400
+block:  30 , received time:  2022-05-04 21:58:57.408750
+block:  31 , received time:  2022-05-04 21:59:11.770980
+block:  32 , received time:  2022-05-04 21:59:26.260422
+block:  33 , received time:  2022-05-04 21:59:40.926392
+block:  34 , received time:  2022-05-04 21:59:55.315737
+block:  35 , received time:  2022-05-04 22:00:09.727178
+block:  36 , received time:  2022-05-04 22:00:24.136999
+block:  37 , received time:  2022-05-04 22:00:38.676424
+block:  38 , received time:  2022-05-04 22:00:53.156203
+block:  39 , received time:  2022-05-04 22:01:07.464044
+block:  40 , received time:  2022-05-04 22:01:21.706734
+block:  41 , received time:  2022-05-04 22:01:36.029865
+block:  42 , received time:  2022-05-04 22:01:50.608945
+block:  43 , received time:  2022-05-04 22:02:05.026655
+block:  44 , received time:  2022-05-04 22:02:19.476659
+block:  45 , received time:  2022-05-04 22:02:33.865345
+
+10_L2_UNIV10_miner_1018
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:00.562683
+block:  27 , received time:  2022-05-04 21:58:14.938242
+block:  28 , received time:  2022-05-04 21:58:29.069177
+block:  29 , received time:  2022-05-04 21:58:43.286961
+block:  30 , received time:  2022-05-04 21:58:57.525769
+block:  31 , received time:  2022-05-04 21:59:11.891023
+block:  32 , received time:  2022-05-04 21:59:26.410476
+block:  33 , received time:  2022-05-04 21:59:41.043127
+block:  34 , received time:  2022-05-04 21:59:55.443467
+block:  35 , received time:  2022-05-04 22:00:09.849208
+block:  36 , received time:  2022-05-04 22:00:24.291949
+block:  37 , received time:  2022-05-04 22:00:38.815019
+block:  38 , received time:  2022-05-04 22:00:53.280172
+block:  39 , received time:  2022-05-04 22:01:07.597543
+block:  40 , received time:  2022-05-04 22:01:21.832347
+block:  41 , received time:  2022-05-04 22:01:36.191425
+block:  42 , received time:  2022-05-04 22:01:50.767694
+block:  43 , received time:  2022-05-04 22:02:05.186909
+block:  44 , received time:  2022-05-04 22:02:19.620044
+block:  45 , received time:  2022-05-04 22:02:33.988908
+
+10_L2_UNIV10_miner_1017
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:00.725335
+block:  27 , received time:  2022-05-04 21:58:15.045821
+block:  28 , received time:  2022-05-04 21:58:29.217813
+block:  29 , received time:  2022-05-04 21:58:43.442513
+block:  30 , received time:  2022-05-04 21:58:57.681437
+block:  31 , received time:  2022-05-04 21:59:12.051668
+block:  32 , received time:  2022-05-04 21:59:26.533659
+block:  33 , received time:  2022-05-04 21:59:41.200749
+block:  34 , received time:  2022-05-04 21:59:55.582191
+block:  35 , received time:  2022-05-04 22:00:09.991921
+block:  36 , received time:  2022-05-04 22:00:24.413703
+block:  37 , received time:  2022-05-04 22:00:38.949902
+block:  38 , received time:  2022-05-04 22:00:53.404184
+block:  39 , received time:  2022-05-04 22:01:07.736756
+block:  40 , received time:  2022-05-04 22:01:21.992327
+block:  41 , received time:  2022-05-04 22:01:36.341241
+block:  42 , received time:  2022-05-04 22:01:50.894372
+block:  43 , received time:  2022-05-04 22:02:05.335429
+block:  44 , received time:  2022-05-04 22:02:19.748408
+block:  45 , received time:  2022-05-04 22:02:34.132840
+
+10_L2_UNIV10_miner_1016
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:00.875368
+block:  27 , received time:  2022-05-04 21:58:15.213727
+block:  28 , received time:  2022-05-04 21:58:29.337584
+block:  29 , received time:  2022-05-04 21:58:43.595183
+block:  30 , received time:  2022-05-04 21:58:57.795249
+block:  31 , received time:  2022-05-04 21:59:12.207740
+block:  32 , received time:  2022-05-04 21:59:26.649658
+block:  33 , received time:  2022-05-04 21:59:41.349592
+block:  34 , received time:  2022-05-04 21:59:55.709210
+block:  35 , received time:  2022-05-04 22:00:10.141189
+block:  36 , received time:  2022-05-04 22:00:24.537487
+block:  37 , received time:  2022-05-04 22:00:39.087648
+block:  38 , received time:  2022-05-04 22:00:53.548514
+block:  39 , received time:  2022-05-04 22:01:07.864680
+block:  40 , received time:  2022-05-04 22:01:22.124023
+block:  41 , received time:  2022-05-04 22:01:36.504100
+block:  42 , received time:  2022-05-04 22:01:51.024978
+block:  43 , received time:  2022-05-04 22:02:05.487590
+block:  44 , received time:  2022-05-04 22:02:19.885435
+block:  45 , received time:  2022-05-04 22:02:34.265368
+
+10_L2_UNIV10_miner_1015
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:01.027810
+block:  27 , received time:  2022-05-04 21:58:15.332078
+block:  28 , received time:  2022-05-04 21:58:29.450381
+block:  29 , received time:  2022-05-04 21:58:43.739553
+block:  30 , received time:  2022-05-04 21:58:57.954385
+block:  31 , received time:  2022-05-04 21:59:12.350670
+block:  32 , received time:  2022-05-04 21:59:26.796566
+block:  33 , received time:  2022-05-04 21:59:41.485045
+block:  34 , received time:  2022-05-04 21:59:55.881579
+block:  35 , received time:  2022-05-04 22:00:10.261822
+block:  36 , received time:  2022-05-04 22:00:24.699672
+block:  37 , received time:  2022-05-04 22:00:39.221991
+block:  38 , received time:  2022-05-04 22:00:53.689910
+block:  39 , received time:  2022-05-04 22:01:08.003308
+block:  40 , received time:  2022-05-04 22:01:22.276009
+block:  41 , received time:  2022-05-04 22:01:36.631903
+block:  42 , received time:  2022-05-04 22:01:51.154379
+block:  43 , received time:  2022-05-04 22:02:05.621500
+block:  44 , received time:  2022-05-04 22:02:20.037102
+block:  45 , received time:  2022-05-04 22:02:34.404381
+
+10_L2_UNIV10_miner_1014
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:01.194726
+block:  27 , received time:  2022-05-04 21:58:15.471774
+block:  28 , received time:  2022-05-04 21:58:29.593189
+block:  29 , received time:  2022-05-04 21:58:43.896985
+block:  30 , received time:  2022-05-04 21:58:58.107093
+block:  31 , received time:  2022-05-04 21:59:12.496733
+block:  32 , received time:  2022-05-04 21:59:26.950924
+block:  33 , received time:  2022-05-04 21:59:41.622115
+block:  34 , received time:  2022-05-04 21:59:56.014047
+block:  35 , received time:  2022-05-04 22:00:10.422885
+block:  36 , received time:  2022-05-04 22:00:24.840936
+block:  37 , received time:  2022-05-04 22:00:39.373705
+block:  38 , received time:  2022-05-04 22:00:53.825699
+block:  39 , received time:  2022-05-04 22:01:08.160517
+block:  40 , received time:  2022-05-04 22:01:22.448551
+block:  41 , received time:  2022-05-04 22:01:36.775528
+block:  42 , received time:  2022-05-04 22:01:51.303279
+block:  43 , received time:  2022-05-04 22:02:05.786140
+block:  44 , received time:  2022-05-04 22:02:20.197826
+block:  45 , received time:  2022-05-04 22:02:34.560927
+
+10_L2_UNIV10_miner_1013
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:01.338416
+block:  27 , received time:  2022-05-04 21:58:15.618364
+block:  28 , received time:  2022-05-04 21:58:29.714629
+block:  29 , received time:  2022-05-04 21:58:44.062975
+block:  30 , received time:  2022-05-04 21:58:58.249991
+block:  31 , received time:  2022-05-04 21:59:12.656387
+block:  32 , received time:  2022-05-04 21:59:27.071751
+block:  33 , received time:  2022-05-04 21:59:41.775138
+block:  34 , received time:  2022-05-04 21:59:56.169099
+block:  35 , received time:  2022-05-04 22:00:10.565460
+block:  36 , received time:  2022-05-04 22:00:25.000618
+block:  37 , received time:  2022-05-04 22:00:39.520759
+block:  38 , received time:  2022-05-04 22:00:53.953164
+block:  39 , received time:  2022-05-04 22:01:08.297146
+block:  40 , received time:  2022-05-04 22:01:22.604001
+block:  41 , received time:  2022-05-04 22:01:36.913302
+block:  42 , received time:  2022-05-04 22:01:51.469811
+block:  43 , received time:  2022-05-04 22:02:05.913254
+block:  44 , received time:  2022-05-04 22:02:20.336184
+block:  45 , received time:  2022-05-04 22:02:34.713029
+
+10_L2_UNIV10_miner_1012
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:01.483816
+block:  27 , received time:  2022-05-04 21:58:15.751185
+block:  28 , received time:  2022-05-04 21:58:29.830194
+block:  29 , received time:  2022-05-04 21:58:44.201768
+block:  30 , received time:  2022-05-04 21:58:58.385931
+block:  31 , received time:  2022-05-04 21:59:12.786893
+block:  32 , received time:  2022-05-04 21:59:27.216862
+block:  33 , received time:  2022-05-04 21:59:41.908658
+block:  34 , received time:  2022-05-04 21:59:56.307705
+block:  35 , received time:  2022-05-04 22:00:10.714584
+block:  36 , received time:  2022-05-04 22:00:25.129052
+block:  37 , received time:  2022-05-04 22:00:39.645180
+block:  38 , received time:  2022-05-04 22:00:54.105682
+block:  39 , received time:  2022-05-04 22:01:08.452104
+block:  40 , received time:  2022-05-04 22:01:22.773033
+block:  41 , received time:  2022-05-04 22:01:37.050751
+block:  42 , received time:  2022-05-04 22:01:51.591951
+block:  43 , received time:  2022-05-04 22:02:06.052289
+block:  44 , received time:  2022-05-04 22:02:20.459206
+block:  45 , received time:  2022-05-04 22:02:34.840184
+
+10_L2_UNIV10_miner_1011
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:01.638429
+block:  27 , received time:  2022-05-04 21:58:15.861452
+block:  28 , received time:  2022-05-04 21:58:29.991057
+block:  29 , received time:  2022-05-04 21:58:44.340576
+block:  30 , received time:  2022-05-04 21:58:58.540076
+block:  31 , received time:  2022-05-04 21:59:12.945052
+block:  32 , received time:  2022-05-04 21:59:27.339644
+block:  33 , received time:  2022-05-04 21:59:42.061086
+block:  34 , received time:  2022-05-04 21:59:56.453615
+block:  35 , received time:  2022-05-04 22:00:10.840295
+block:  36 , received time:  2022-05-04 22:00:25.268159
+block:  37 , received time:  2022-05-04 22:00:39.796676
+block:  38 , received time:  2022-05-04 22:00:54.249721
+block:  39 , received time:  2022-05-04 22:01:08.591504
+block:  40 , received time:  2022-05-04 22:01:22.912672
+block:  41 , received time:  2022-05-04 22:01:37.187788
+block:  42 , received time:  2022-05-04 22:01:51.696017
+block:  43 , received time:  2022-05-04 22:02:06.187523
+block:  44 , received time:  2022-05-04 22:02:20.600283
+block:  45 , received time:  2022-05-04 22:02:35.003905
+
+10_L2_UNIV10_miner_1010
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:01.794774
+block:  27 , received time:  2022-05-04 21:58:15.989692
+block:  28 , received time:  2022-05-04 21:58:30.113657
+block:  29 , received time:  2022-05-04 21:58:44.498973
+block:  30 , received time:  2022-05-04 21:58:58.697904
+block:  31 , received time:  2022-05-04 21:59:13.108269
+block:  32 , received time:  2022-05-04 21:59:27.495683
+block:  33 , received time:  2022-05-04 21:59:42.221191
+block:  34 , received time:  2022-05-04 21:59:56.600920
+block:  35 , received time:  2022-05-04 22:00:10.997736
+block:  36 , received time:  2022-05-04 22:00:25.387857
+block:  37 , received time:  2022-05-04 22:00:39.943779
+block:  38 , received time:  2022-05-04 22:00:54.377433
+block:  39 , received time:  2022-05-04 22:01:08.713472
+block:  40 , received time:  2022-05-04 22:01:23.045427
+block:  41 , received time:  2022-05-04 22:01:37.335105
+block:  42 , received time:  2022-05-04 22:01:51.849504
+block:  43 , received time:  2022-05-04 22:02:06.337051
+block:  44 , received time:  2022-05-04 22:02:20.748756
+block:  45 , received time:  2022-05-04 22:02:35.157851
+
+10_L2_UNIV10_miner_109
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:01.933911
+block:  27 , received time:  2022-05-04 21:58:16.135323
+block:  28 , received time:  2022-05-04 21:58:30.266504
+block:  29 , received time:  2022-05-04 21:58:44.633377
+block:  30 , received time:  2022-05-04 21:58:58.841141
+block:  31 , received time:  2022-05-04 21:59:13.238365
+block:  32 , received time:  2022-05-04 21:59:27.631333
+block:  33 , received time:  2022-05-04 21:59:42.373422
+block:  34 , received time:  2022-05-04 21:59:56.748054
+block:  35 , received time:  2022-05-04 22:00:11.126747
+block:  36 , received time:  2022-05-04 22:00:25.513455
+block:  37 , received time:  2022-05-04 22:00:40.079845
+block:  38 , received time:  2022-05-04 22:00:54.495133
+block:  39 , received time:  2022-05-04 22:01:08.855395
+block:  40 , received time:  2022-05-04 22:01:23.205651
+block:  41 , received time:  2022-05-04 22:01:37.464412
+block:  42 , received time:  2022-05-04 22:01:51.990528
+block:  43 , received time:  2022-05-04 22:02:06.491438
+block:  44 , received time:  2022-05-04 22:02:20.902087
+block:  45 , received time:  2022-05-04 22:02:35.315305
+
+10_L2_UNIV10_miner_108
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:02.089200
+block:  27 , received time:  2022-05-04 21:58:16.285165
+block:  28 , received time:  2022-05-04 21:58:30.413300
+block:  29 , received time:  2022-05-04 21:58:44.755077
+block:  30 , received time:  2022-05-04 21:58:58.996333
+block:  31 , received time:  2022-05-04 21:59:13.359837
+block:  32 , received time:  2022-05-04 21:59:27.749012
+block:  33 , received time:  2022-05-04 21:59:42.520688
+block:  34 , received time:  2022-05-04 21:59:56.881421
+block:  35 , received time:  2022-05-04 22:00:11.279914
+block:  36 , received time:  2022-05-04 22:00:25.642958
+block:  37 , received time:  2022-05-04 22:00:40.217200
+block:  38 , received time:  2022-05-04 22:00:54.624457
+block:  39 , received time:  2022-05-04 22:01:08.977688
+block:  40 , received time:  2022-05-04 22:01:23.359949
+block:  41 , received time:  2022-05-04 22:01:37.623058
+block:  42 , received time:  2022-05-04 22:01:52.116338
+block:  43 , received time:  2022-05-04 22:02:06.619192
+block:  44 , received time:  2022-05-04 22:02:21.029061
+block:  45 , received time:  2022-05-04 22:02:35.458563
+
+10_L2_UNIV10_miner_107
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:02.211671
+block:  27 , received time:  2022-05-04 21:58:16.417589
+block:  28 , received time:  2022-05-04 21:58:30.561114
+block:  29 , received time:  2022-05-04 21:58:44.877379
+block:  30 , received time:  2022-05-04 21:58:59.131050
+block:  31 , received time:  2022-05-04 21:59:13.503699
+block:  32 , received time:  2022-05-04 21:59:27.866754
+block:  33 , received time:  2022-05-04 21:59:42.648809
+block:  34 , received time:  2022-05-04 21:59:57.043433
+block:  35 , received time:  2022-05-04 22:00:11.433334
+block:  36 , received time:  2022-05-04 22:00:25.804997
+block:  37 , received time:  2022-05-04 22:00:40.345503
+block:  38 , received time:  2022-05-04 22:00:54.747580
+block:  39 , received time:  2022-05-04 22:01:09.123110
+block:  40 , received time:  2022-05-04 22:01:23.487563
+block:  41 , received time:  2022-05-04 22:01:37.790230
+block:  42 , received time:  2022-05-04 22:01:52.230886
+block:  43 , received time:  2022-05-04 22:02:06.775835
+block:  44 , received time:  2022-05-04 22:02:21.175655
+block:  45 , received time:  2022-05-04 22:02:35.615865
+
+10_L2_UNIV10_miner_106
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:02.344986
+block:  27 , received time:  2022-05-04 21:58:16.555201
+block:  28 , received time:  2022-05-04 21:58:30.714307
+block:  29 , received time:  2022-05-04 21:58:45.013267
+block:  30 , received time:  2022-05-04 21:58:59.278893
+block:  31 , received time:  2022-05-04 21:59:13.637640
+block:  32 , received time:  2022-05-04 21:59:28.048947
+block:  33 , received time:  2022-05-04 21:59:42.772442
+block:  34 , received time:  2022-05-04 21:59:57.204434
+block:  35 , received time:  2022-05-04 22:00:11.555487
+block:  36 , received time:  2022-05-04 22:00:25.923017
+block:  37 , received time:  2022-05-04 22:00:40.493222
+block:  38 , received time:  2022-05-04 22:00:54.895178
+block:  39 , received time:  2022-05-04 22:01:09.250305
+block:  40 , received time:  2022-05-04 22:01:23.624733
+block:  41 , received time:  2022-05-04 22:01:37.955693
+block:  42 , received time:  2022-05-04 22:01:52.366908
+block:  43 , received time:  2022-05-04 22:02:06.905989
+block:  44 , received time:  2022-05-04 22:02:21.349552
+block:  45 , received time:  2022-05-04 22:02:35.756898
+
+10_L2_UNIV10_miner_105
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:02.493442
+block:  27 , received time:  2022-05-04 21:58:16.714935
+block:  28 , received time:  2022-05-04 21:58:30.872539
+block:  29 , received time:  2022-05-04 21:58:45.159681
+block:  30 , received time:  2022-05-04 21:58:59.407932
+block:  31 , received time:  2022-05-04 21:59:13.781749
+block:  32 , received time:  2022-05-04 21:59:28.177218
+block:  33 , received time:  2022-05-04 21:59:42.914894
+block:  34 , received time:  2022-05-04 21:59:57.337009
+block:  35 , received time:  2022-05-04 22:00:11.714477
+block:  36 , received time:  2022-05-04 22:00:26.088363
+block:  37 , received time:  2022-05-04 22:00:40.647137
+block:  38 , received time:  2022-05-04 22:00:55.037067
+block:  39 , received time:  2022-05-04 22:01:09.377443
+block:  40 , received time:  2022-05-04 22:01:23.781811
+block:  41 , received time:  2022-05-04 22:01:38.096608
+block:  42 , received time:  2022-05-04 22:01:52.505707
+block:  43 , received time:  2022-05-04 22:02:07.062199
+block:  44 , received time:  2022-05-04 22:02:21.495485
+block:  45 , received time:  2022-05-04 22:02:35.885898
+
+10_L2_UNIV10_miner_104
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:02.612275
+block:  27 , received time:  2022-05-04 21:58:16.856454
+block:  28 , received time:  2022-05-04 21:58:31.021476
+block:  29 , received time:  2022-05-04 21:58:45.313779
+block:  30 , received time:  2022-05-04 21:58:59.564637
+block:  31 , received time:  2022-05-04 21:59:13.939659
+block:  32 , received time:  2022-05-04 21:59:28.324925
+block:  33 , received time:  2022-05-04 21:59:43.068335
+block:  34 , received time:  2022-05-04 21:59:57.468288
+block:  35 , received time:  2022-05-04 22:00:11.863841
+block:  36 , received time:  2022-05-04 22:00:26.242069
+block:  37 , received time:  2022-05-04 22:00:40.797073
+block:  38 , received time:  2022-05-04 22:00:55.162197
+block:  39 , received time:  2022-05-04 22:01:09.527981
+block:  40 , received time:  2022-05-04 22:01:23.911865
+block:  41 , received time:  2022-05-04 22:01:38.247529
+block:  42 , received time:  2022-05-04 22:01:52.637281
+block:  43 , received time:  2022-05-04 22:02:07.197882
+block:  44 , received time:  2022-05-04 22:02:21.647382
+block:  45 , received time:  2022-05-04 22:02:36.037071
+
+10_L2_UNIV10_miner_103
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:02.758193
+block:  27 , received time:  2022-05-04 21:58:17.026460
+block:  28 , received time:  2022-05-04 21:58:31.167296
+block:  29 , received time:  2022-05-04 21:58:45.460740
+block:  30 , received time:  2022-05-04 21:58:59.700175
+block:  31 , received time:  2022-05-04 21:59:14.102000
+block:  32 , received time:  2022-05-04 21:59:28.466831
+block:  33 , received time:  2022-05-04 21:59:43.221118
+block:  34 , received time:  2022-05-04 21:59:57.616721
+block:  35 , received time:  2022-05-04 22:00:12.025197
+block:  36 , received time:  2022-05-04 22:00:26.390464
+block:  37 , received time:  2022-05-04 22:00:40.930649
+block:  38 , received time:  2022-05-04 22:00:55.292079
+block:  39 , received time:  2022-05-04 22:01:09.679407
+block:  40 , received time:  2022-05-04 22:01:24.054631
+block:  41 , received time:  2022-05-04 22:01:38.413887
+block:  42 , received time:  2022-05-04 22:01:52.774302
+block:  43 , received time:  2022-05-04 22:02:07.346478
+block:  44 , received time:  2022-05-04 22:02:21.795049
+block:  45 , received time:  2022-05-04 22:02:36.122203
+
+10_L2_UNIV10_miner_102
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:02.898049
+block:  27 , received time:  2022-05-04 21:58:17.154734
+block:  28 , received time:  2022-05-04 21:58:31.286533
+block:  29 , received time:  2022-05-04 21:58:45.595747
+block:  30 , received time:  2022-05-04 21:58:59.823921
+block:  31 , received time:  2022-05-04 21:59:14.216988
+block:  32 , received time:  2022-05-04 21:59:28.627036
+block:  33 , received time:  2022-05-04 21:59:43.370637
+block:  34 , received time:  2022-05-04 21:59:57.743182
+block:  35 , received time:  2022-05-04 22:00:12.189248
+block:  36 , received time:  2022-05-04 22:00:26.549672
+block:  37 , received time:  2022-05-04 22:00:41.074912
+block:  38 , received time:  2022-05-04 22:00:55.443126
+block:  39 , received time:  2022-05-04 22:01:09.812268
+block:  40 , received time:  2022-05-04 22:01:24.196536
+block:  41 , received time:  2022-05-04 22:01:38.565803
+block:  42 , received time:  2022-05-04 22:01:52.892566
+block:  43 , received time:  2022-05-04 22:02:07.465836
+block:  44 , received time:  2022-05-04 22:02:21.941136
+block:  45 , received time:  2022-05-04 22:02:36.269484
+
+10_L2_UNIV10_miner_101
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:03.051020
+block:  27 , received time:  2022-05-04 21:58:17.295299
+block:  28 , received time:  2022-05-04 21:58:31.440490
+block:  29 , received time:  2022-05-04 21:58:45.749855
+block:  30 , received time:  2022-05-04 21:58:59.992628
+block:  31 , received time:  2022-05-04 21:59:14.359790
+block:  32 , received time:  2022-05-04 21:59:28.776486
+block:  33 , received time:  2022-05-04 21:59:43.530045
+block:  34 , received time:  2022-05-04 21:59:57.886421
+block:  35 , received time:  2022-05-04 22:00:12.338322
+block:  36 , received time:  2022-05-04 22:00:26.671884
+block:  37 , received time:  2022-05-04 22:00:41.216521
+block:  38 , received time:  2022-05-04 22:00:55.570953
+block:  39 , received time:  2022-05-04 22:01:09.956933
+block:  40 , received time:  2022-05-04 22:01:24.336452
+block:  41 , received time:  2022-05-04 22:01:38.713082
+block:  42 , received time:  2022-05-04 22:01:53.025540
+block:  43 , received time:  2022-05-04 22:02:07.604275
+block:  44 , received time:  2022-05-04 22:02:22.085739
+block:  45 , received time:  2022-05-04 22:02:36.430704
+
+9_L2_UNIV9_miner_92
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:03.196470
+block:  27 , received time:  2022-05-04 21:58:17.412411
+block:  28 , received time:  2022-05-04 21:58:31.584002
+block:  29 , received time:  2022-05-04 21:58:45.901711
+block:  30 , received time:  2022-05-04 21:59:00.149143
+block:  31 , received time:  2022-05-04 21:59:14.510632
+block:  32 , received time:  2022-05-04 21:59:28.938889
+block:  33 , received time:  2022-05-04 21:59:43.659848
+block:  34 , received time:  2022-05-04 21:59:58.032696
+block:  35 , received time:  2022-05-04 22:00:12.482260
+block:  36 , received time:  2022-05-04 22:00:26.820360
+block:  37 , received time:  2022-05-04 22:00:41.364938
+block:  38 , received time:  2022-05-04 22:00:55.727304
+block:  39 , received time:  2022-05-04 22:01:10.079854
+block:  40 , received time:  2022-05-04 22:01:24.483352
+block:  41 , received time:  2022-05-04 22:01:38.865829
+block:  42 , received time:  2022-05-04 22:01:53.183942
+block:  43 , received time:  2022-05-04 22:02:07.769687
+block:  44 , received time:  2022-05-04 22:02:22.236085
+block:  45 , received time:  2022-05-04 22:02:36.579551
+
+9_L2_UNIV9_miner_91
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:03.334757
+block:  27 , received time:  2022-05-04 21:58:17.571213
+block:  28 , received time:  2022-05-04 21:58:31.713049
+block:  29 , received time:  2022-05-04 21:58:46.044569
+block:  30 , received time:  2022-05-04 21:59:00.281724
+block:  31 , received time:  2022-05-04 21:59:14.640445
+block:  32 , received time:  2022-05-04 21:59:29.094815
+block:  33 , received time:  2022-05-04 21:59:43.812935
+block:  34 , received time:  2022-05-04 21:59:58.150564
+block:  35 , received time:  2022-05-04 22:00:12.629409
+block:  36 , received time:  2022-05-04 22:00:26.980025
+block:  37 , received time:  2022-05-04 22:00:41.505563
+block:  38 , received time:  2022-05-04 22:00:55.854008
+block:  39 , received time:  2022-05-04 22:01:10.243339
+block:  40 , received time:  2022-05-04 22:01:24.613336
+block:  41 , received time:  2022-05-04 22:01:38.982074
+block:  42 , received time:  2022-05-04 22:01:53.307799
+block:  43 , received time:  2022-05-04 22:02:07.901228
+block:  44 , received time:  2022-05-04 22:02:22.354961
+block:  45 , received time:  2022-05-04 22:02:36.715292
+
+8_L2_UNIV8_miner_83
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:03.487798
+block:  27 , received time:  2022-05-04 21:58:17.699088
+block:  28 , received time:  2022-05-04 21:58:31.876051
+block:  29 , received time:  2022-05-04 21:58:46.196088
+block:  30 , received time:  2022-05-04 21:59:00.440818
+block:  31 , received time:  2022-05-04 21:59:14.780666
+block:  32 , received time:  2022-05-04 21:59:29.244822
+block:  33 , received time:  2022-05-04 21:59:43.976182
+block:  34 , received time:  2022-05-04 21:59:58.304013
+block:  35 , received time:  2022-05-04 22:00:12.761730
+block:  36 , received time:  2022-05-04 22:00:27.132550
+block:  37 , received time:  2022-05-04 22:00:41.643457
+block:  38 , received time:  2022-05-04 22:00:56.004954
+block:  39 , received time:  2022-05-04 22:01:10.367287
+block:  40 , received time:  2022-05-04 22:01:24.758795
+block:  41 , received time:  2022-05-04 22:01:39.135211
+block:  42 , received time:  2022-05-04 22:01:53.470174
+block:  43 , received time:  2022-05-04 22:02:08.060314
+block:  44 , received time:  2022-05-04 22:02:22.479761
+block:  45 , received time:  2022-05-04 22:02:36.864240
+
+8_L2_UNIV8_miner_82
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:03.625255
+block:  27 , received time:  2022-05-04 21:58:17.839998
+block:  28 , received time:  2022-05-04 21:58:32.006972
+block:  29 , received time:  2022-05-04 21:58:46.340548
+block:  30 , received time:  2022-05-04 21:59:00.586213
+block:  31 , received time:  2022-05-04 21:59:14.911020
+block:  32 , received time:  2022-05-04 21:59:29.384370
+block:  33 , received time:  2022-05-04 21:59:44.103278
+block:  34 , received time:  2022-05-04 21:59:58.440243
+block:  35 , received time:  2022-05-04 22:00:12.895255
+block:  36 , received time:  2022-05-04 22:00:27.277022
+block:  37 , received time:  2022-05-04 22:00:41.797583
+block:  38 , received time:  2022-05-04 22:00:56.152036
+block:  39 , received time:  2022-05-04 22:01:10.520204
+block:  40 , received time:  2022-05-04 22:01:24.908079
+block:  41 , received time:  2022-05-04 22:01:39.282402
+block:  42 , received time:  2022-05-04 22:01:53.633030
+block:  43 , received time:  2022-05-04 22:02:08.173276
+block:  44 , received time:  2022-05-04 22:02:22.614687
+block:  45 , received time:  2022-05-04 22:02:36.995765
+
+8_L2_UNIV8_miner_81
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:03.753884
+block:  27 , received time:  2022-05-04 21:58:17.981656
+block:  28 , received time:  2022-05-04 21:58:32.161914
+block:  29 , received time:  2022-05-04 21:58:46.503762
+block:  30 , received time:  2022-05-04 21:59:00.738054
+block:  31 , received time:  2022-05-04 21:59:15.057780
+block:  32 , received time:  2022-05-04 21:59:29.533651
+block:  33 , received time:  2022-05-04 21:59:44.256161
+block:  34 , received time:  2022-05-04 21:59:58.589970
+block:  35 , received time:  2022-05-04 22:00:13.050556
+block:  36 , received time:  2022-05-04 22:00:27.415082
+block:  37 , received time:  2022-05-04 22:00:41.925057
+block:  38 , received time:  2022-05-04 22:00:56.301070
+block:  39 , received time:  2022-05-04 22:01:10.682778
+block:  40 , received time:  2022-05-04 22:01:25.029124
+block:  41 , received time:  2022-05-04 22:01:39.426552
+block:  42 , received time:  2022-05-04 22:01:53.779421
+block:  43 , received time:  2022-05-04 22:02:08.320864
+block:  44 , received time:  2022-05-04 22:02:22.754208
+block:  45 , received time:  2022-05-04 22:02:37.160429
+
+7_L2_UNIV7_miner_74
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:03.861122
+block:  27 , received time:  2022-05-04 21:58:18.100476
+block:  28 , received time:  2022-05-04 21:58:32.297677
+block:  29 , received time:  2022-05-04 21:58:46.649468
+block:  30 , received time:  2022-05-04 21:59:00.889303
+block:  31 , received time:  2022-05-04 21:59:15.212791
+block:  32 , received time:  2022-05-04 21:59:29.701450
+block:  33 , received time:  2022-05-04 21:59:44.401839
+block:  34 , received time:  2022-05-04 21:59:58.710498
+block:  35 , received time:  2022-05-04 22:00:13.211995
+block:  36 , received time:  2022-05-04 22:00:27.557811
+block:  37 , received time:  2022-05-04 22:00:42.051260
+block:  38 , received time:  2022-05-04 22:00:56.428297
+block:  39 , received time:  2022-05-04 22:01:10.822950
+block:  40 , received time:  2022-05-04 22:01:25.164035
+block:  41 , received time:  2022-05-04 22:01:39.553699
+block:  42 , received time:  2022-05-04 22:01:53.942901
+block:  43 , received time:  2022-05-04 22:02:08.463453
+block:  44 , received time:  2022-05-04 22:02:22.906846
+block:  45 , received time:  2022-05-04 22:02:37.296084
+
+7_L2_UNIV7_miner_73
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:03.982944
+block:  27 , received time:  2022-05-04 21:58:18.245996
+block:  28 , received time:  2022-05-04 21:58:32.453223
+block:  29 , received time:  2022-05-04 21:58:46.806001
+block:  30 , received time:  2022-05-04 21:59:01.003218
+block:  31 , received time:  2022-05-04 21:59:15.359434
+block:  32 , received time:  2022-05-04 21:59:29.860972
+block:  33 , received time:  2022-05-04 21:59:44.561393
+block:  34 , received time:  2022-05-04 21:59:58.862696
+block:  35 , received time:  2022-05-04 22:00:13.372703
+block:  36 , received time:  2022-05-04 22:00:27.710552
+block:  37 , received time:  2022-05-04 22:00:42.180027
+block:  38 , received time:  2022-05-04 22:00:56.548254
+block:  39 , received time:  2022-05-04 22:01:10.977474
+block:  40 , received time:  2022-05-04 22:01:25.279854
+block:  41 , received time:  2022-05-04 22:01:39.698632
+block:  42 , received time:  2022-05-04 22:01:54.068490
+block:  43 , received time:  2022-05-04 22:02:08.586439
+block:  44 , received time:  2022-05-04 22:02:23.033269
+block:  45 , received time:  2022-05-04 22:02:37.429080
+
+7_L2_UNIV7_miner_72
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:04.101727
+block:  27 , received time:  2022-05-04 21:58:18.400292
+block:  28 , received time:  2022-05-04 21:58:32.591436
+block:  29 , received time:  2022-05-04 21:58:46.963271
+block:  30 , received time:  2022-05-04 21:59:01.160622
+block:  31 , received time:  2022-05-04 21:59:15.497153
+block:  32 , received time:  2022-05-04 21:59:29.991398
+block:  33 , received time:  2022-05-04 21:59:44.701062
+block:  34 , received time:  2022-05-04 21:59:58.976020
+block:  35 , received time:  2022-05-04 22:00:13.518678
+block:  36 , received time:  2022-05-04 22:00:27.877221
+block:  37 , received time:  2022-05-04 22:00:42.318532
+block:  38 , received time:  2022-05-04 22:00:56.686230
+block:  39 , received time:  2022-05-04 22:01:11.130953
+block:  40 , received time:  2022-05-04 22:01:25.417317
+block:  41 , received time:  2022-05-04 22:01:39.844006
+block:  42 , received time:  2022-05-04 22:01:54.224270
+block:  43 , received time:  2022-05-04 22:02:08.754302
+block:  44 , received time:  2022-05-04 22:02:23.176629
+block:  45 , received time:  2022-05-04 22:02:37.574633
+
+7_L2_UNIV7_miner_71
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:04.257387
+block:  27 , received time:  2022-05-04 21:58:18.531738
+block:  28 , received time:  2022-05-04 21:58:32.727829
+block:  29 , received time:  2022-05-04 21:58:47.128305
+block:  30 , received time:  2022-05-04 21:59:01.278987
+block:  31 , received time:  2022-05-04 21:59:15.653562
+block:  32 , received time:  2022-05-04 21:59:30.112068
+block:  33 , received time:  2022-05-04 21:59:44.844775
+block:  34 , received time:  2022-05-04 21:59:59.138532
+block:  35 , received time:  2022-05-04 22:00:13.672209
+block:  36 , received time:  2022-05-04 22:00:28.042424
+block:  37 , received time:  2022-05-04 22:00:42.447370
+block:  38 , received time:  2022-05-04 22:00:56.835087
+block:  39 , received time:  2022-05-04 22:01:11.271843
+block:  40 , received time:  2022-05-04 22:01:25.552330
+block:  41 , received time:  2022-05-04 22:01:40.001595
+block:  42 , received time:  2022-05-04 22:01:54.389533
+block:  43 , received time:  2022-05-04 22:02:08.905257
+block:  44 , received time:  2022-05-04 22:02:23.325646
+block:  45 , received time:  2022-05-04 22:02:37.708608
+
+6_L2_UNIV6_miner_63
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:04.421316
+block:  27 , received time:  2022-05-04 21:58:18.681977
+block:  28 , received time:  2022-05-04 21:58:32.872711
+block:  29 , received time:  2022-05-04 21:58:47.270875
+block:  30 , received time:  2022-05-04 21:59:01.424344
+block:  31 , received time:  2022-05-04 21:59:15.785042
+block:  32 , received time:  2022-05-04 21:59:30.252542
+block:  33 , received time:  2022-05-04 21:59:44.988667
+block:  34 , received time:  2022-05-04 21:59:59.272061
+block:  35 , received time:  2022-05-04 22:00:13.795033
+block:  36 , received time:  2022-05-04 22:00:28.200850
+block:  37 , received time:  2022-05-04 22:00:42.604496
+block:  38 , received time:  2022-05-04 22:00:56.961827
+block:  39 , received time:  2022-05-04 22:01:11.377621
+block:  40 , received time:  2022-05-04 22:01:25.718714
+block:  41 , received time:  2022-05-04 22:01:40.156029
+block:  42 , received time:  2022-05-04 22:01:54.536032
+block:  43 , received time:  2022-05-04 22:02:09.069761
+block:  44 , received time:  2022-05-04 22:02:23.477814
+block:  45 , received time:  2022-05-04 22:02:37.851571
+
+6_L2_UNIV6_miner_62
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:04.565869
+block:  27 , received time:  2022-05-04 21:58:18.804137
+block:  28 , received time:  2022-05-04 21:58:32.996655
+block:  29 , received time:  2022-05-04 21:58:47.413814
+block:  30 , received time:  2022-05-04 21:59:01.548049
+block:  31 , received time:  2022-05-04 21:59:15.937835
+block:  32 , received time:  2022-05-04 21:59:30.391094
+block:  33 , received time:  2022-05-04 21:59:45.144238
+block:  34 , received time:  2022-05-04 21:59:59.437444
+block:  35 , received time:  2022-05-04 22:00:13.941950
+block:  36 , received time:  2022-05-04 22:00:28.345192
+block:  37 , received time:  2022-05-04 22:00:42.736301
+block:  38 , received time:  2022-05-04 22:00:57.117559
+block:  39 , received time:  2022-05-04 22:01:11.512612
+block:  40 , received time:  2022-05-04 22:01:25.862424
+block:  41 , received time:  2022-05-04 22:01:40.311882
+block:  42 , received time:  2022-05-04 22:01:54.685521
+block:  43 , received time:  2022-05-04 22:02:09.196539
+block:  44 , received time:  2022-05-04 22:02:23.595463
+block:  45 , received time:  2022-05-04 22:02:37.987682
+
+6_L2_UNIV6_miner_61
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:04.693936
+block:  27 , received time:  2022-05-04 21:58:18.969255
+block:  28 , received time:  2022-05-04 21:58:33.119487
+block:  29 , received time:  2022-05-04 21:58:47.587584
+block:  30 , received time:  2022-05-04 21:59:01.701598
+block:  31 , received time:  2022-05-04 21:59:16.092770
+block:  32 , received time:  2022-05-04 21:59:30.549621
+block:  33 , received time:  2022-05-04 21:59:45.279047
+block:  34 , received time:  2022-05-04 21:59:59.576922
+block:  35 , received time:  2022-05-04 22:00:14.083996
+block:  36 , received time:  2022-05-04 22:00:28.490575
+block:  37 , received time:  2022-05-04 22:00:42.891888
+block:  38 , received time:  2022-05-04 22:00:57.250059
+block:  39 , received time:  2022-05-04 22:01:11.668612
+block:  40 , received time:  2022-05-04 22:01:26.001900
+block:  41 , received time:  2022-05-04 22:01:40.421033
+block:  42 , received time:  2022-05-04 22:01:54.841326
+block:  43 , received time:  2022-05-04 22:02:09.343171
+block:  44 , received time:  2022-05-04 22:02:23.760428
+block:  45 , received time:  2022-05-04 22:02:38.144644
+
+5_L2_UNIV5_miner_52
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:04.817002
+block:  27 , received time:  2022-05-04 21:58:19.094339
+block:  28 , received time:  2022-05-04 21:58:33.267997
+block:  29 , received time:  2022-05-04 21:58:47.725621
+block:  30 , received time:  2022-05-04 21:59:01.843342
+block:  31 , received time:  2022-05-04 21:59:16.240312
+block:  32 , received time:  2022-05-04 21:59:30.705341
+block:  33 , received time:  2022-05-04 21:59:45.435060
+block:  34 , received time:  2022-05-04 21:59:59.701720
+block:  35 , received time:  2022-05-04 22:00:14.236217
+block:  36 , received time:  2022-05-04 22:00:28.648577
+block:  37 , received time:  2022-05-04 22:00:43.055908
+block:  38 , received time:  2022-05-04 22:00:57.366116
+block:  39 , received time:  2022-05-04 22:01:11.817407
+block:  40 , received time:  2022-05-04 22:01:26.138818
+block:  41 , received time:  2022-05-04 22:01:40.546075
+block:  42 , received time:  2022-05-04 22:01:54.993133
+block:  43 , received time:  2022-05-04 22:02:09.483363
+block:  44 , received time:  2022-05-04 22:02:23.909339
+block:  45 , received time:  2022-05-04 22:02:38.275571
+
+5_L2_UNIV5_miner_51
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:04.956079
+block:  27 , received time:  2022-05-04 21:58:19.224269
+block:  28 , received time:  2022-05-04 21:58:33.417514
+block:  29 , received time:  2022-05-04 21:58:47.854228
+block:  30 , received time:  2022-05-04 21:59:01.968268
+block:  31 , received time:  2022-05-04 21:59:16.398175
+block:  32 , received time:  2022-05-04 21:59:30.819504
+block:  33 , received time:  2022-05-04 21:59:45.569316
+block:  34 , received time:  2022-05-04 21:59:59.852960
+block:  35 , received time:  2022-05-04 22:00:14.385123
+block:  36 , received time:  2022-05-04 22:00:28.820030
+block:  37 , received time:  2022-05-04 22:00:43.193257
+block:  38 , received time:  2022-05-04 22:00:57.525716
+block:  39 , received time:  2022-05-04 22:01:11.972803
+block:  40 , received time:  2022-05-04 22:01:26.291436
+block:  41 , received time:  2022-05-04 22:01:40.690906
+block:  42 , received time:  2022-05-04 22:01:55.109955
+block:  43 , received time:  2022-05-04 22:02:09.623475
+block:  44 , received time:  2022-05-04 22:02:24.023321
+block:  45 , received time:  2022-05-04 22:02:38.393627
+
+4_L2_UNIV4_miner_49
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:05.095762
+block:  27 , received time:  2022-05-04 21:58:19.357843
+block:  28 , received time:  2022-05-04 21:58:33.566247
+block:  29 , received time:  2022-05-04 21:58:47.992153
+block:  30 , received time:  2022-05-04 21:59:02.104410
+block:  31 , received time:  2022-05-04 21:59:16.525842
+block:  32 , received time:  2022-05-04 21:59:30.984021
+block:  33 , received time:  2022-05-04 21:59:45.691117
+block:  34 , received time:  2022-05-04 21:59:59.990534
+block:  35 , received time:  2022-05-04 22:00:14.519778
+block:  36 , received time:  2022-05-04 22:00:28.951181
+block:  37 , received time:  2022-05-04 22:00:43.324680
+block:  38 , received time:  2022-05-04 22:00:57.669207
+block:  39 , received time:  2022-05-04 22:01:12.104238
+block:  40 , received time:  2022-05-04 22:01:26.449426
+block:  41 , received time:  2022-05-04 22:01:40.856082
+block:  42 , received time:  2022-05-04 22:01:55.257613
+block:  43 , received time:  2022-05-04 22:02:09.771162
+block:  44 , received time:  2022-05-04 22:02:24.161728
+block:  45 , received time:  2022-05-04 22:02:38.549051
+
+4_L2_UNIV4_miner_48
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:05.218817
+block:  27 , received time:  2022-05-04 21:58:19.499334
+block:  28 , received time:  2022-05-04 21:58:33.687253
+block:  29 , received time:  2022-05-04 21:58:48.125215
+block:  30 , received time:  2022-05-04 21:59:02.229728
+block:  31 , received time:  2022-05-04 21:59:16.653650
+block:  32 , received time:  2022-05-04 21:59:31.135147
+block:  33 , received time:  2022-05-04 21:59:45.830735
+block:  34 , received time:  2022-05-04 22:00:00.139468
+block:  35 , received time:  2022-05-04 22:00:14.649023
+block:  36 , received time:  2022-05-04 22:00:29.076104
+block:  37 , received time:  2022-05-04 22:00:43.483175
+block:  38 , received time:  2022-05-04 22:00:57.791856
+block:  39 , received time:  2022-05-04 22:01:12.245379
+block:  40 , received time:  2022-05-04 22:01:26.575265
+block:  41 , received time:  2022-05-04 22:01:40.959359
+block:  42 , received time:  2022-05-04 22:01:55.412293
+block:  43 , received time:  2022-05-04 22:02:09.921202
+block:  44 , received time:  2022-05-04 22:02:24.311599
+block:  45 , received time:  2022-05-04 22:02:38.685962
+
+4_L2_UNIV4_miner_47
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:05.347886
+block:  27 , received time:  2022-05-04 21:58:19.617382
+block:  28 , received time:  2022-05-04 21:58:33.821747
+block:  29 , received time:  2022-05-04 21:58:48.291197
+block:  30 , received time:  2022-05-04 21:59:02.352314
+block:  31 , received time:  2022-05-04 21:59:16.777238
+block:  32 , received time:  2022-05-04 21:59:31.293952
+block:  33 , received time:  2022-05-04 21:59:45.961856
+block:  34 , received time:  2022-05-04 22:00:00.258281
+block:  35 , received time:  2022-05-04 22:00:14.775911
+block:  36 , received time:  2022-05-04 22:00:29.202594
+block:  37 , received time:  2022-05-04 22:00:43.620137
+block:  38 , received time:  2022-05-04 22:00:57.930295
+block:  39 , received time:  2022-05-04 22:01:12.390617
+block:  40 , received time:  2022-05-04 22:01:26.717690
+block:  41 , received time:  2022-05-04 22:01:41.107886
+block:  42 , received time:  2022-05-04 22:01:55.543046
+block:  43 , received time:  2022-05-04 22:02:10.073987
+block:  44 , received time:  2022-05-04 22:02:24.445498
+block:  45 , received time:  2022-05-04 22:02:38.846253
+
+4_L2_UNIV4_miner_46
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:05.493341
+block:  27 , received time:  2022-05-04 21:58:19.741899
+block:  28 , received time:  2022-05-04 21:58:33.948383
+block:  29 , received time:  2022-05-04 21:58:48.409044
+block:  30 , received time:  2022-05-04 21:59:02.488686
+block:  31 , received time:  2022-05-04 21:59:16.899079
+block:  32 , received time:  2022-05-04 21:59:31.442747
+block:  33 , received time:  2022-05-04 21:59:46.088143
+block:  34 , received time:  2022-05-04 22:00:00.372380
+block:  35 , received time:  2022-05-04 22:00:14.932651
+block:  36 , received time:  2022-05-04 22:00:29.350449
+block:  37 , received time:  2022-05-04 22:00:43.756606
+block:  38 , received time:  2022-05-04 22:00:58.061537
+block:  39 , received time:  2022-05-04 22:01:12.508755
+block:  40 , received time:  2022-05-04 22:01:26.852170
+block:  41 , received time:  2022-05-04 22:01:41.248167
+block:  42 , received time:  2022-05-04 22:01:55.675886
+block:  43 , received time:  2022-05-04 22:02:10.222765
+block:  44 , received time:  2022-05-04 22:02:24.593956
+block:  45 , received time:  2022-05-04 22:02:38.990996
+
+4_L2_UNIV4_miner_45
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:05.649049
+block:  27 , received time:  2022-05-04 21:58:19.880638
+block:  28 , received time:  2022-05-04 21:58:34.078960
+block:  29 , received time:  2022-05-04 21:58:48.556185
+block:  30 , received time:  2022-05-04 21:59:02.616311
+block:  31 , received time:  2022-05-04 21:59:17.054888
+block:  32 , received time:  2022-05-04 21:59:31.595013
+block:  33 , received time:  2022-05-04 21:59:46.234050
+block:  34 , received time:  2022-05-04 22:00:00.521674
+block:  35 , received time:  2022-05-04 22:00:15.096363
+block:  36 , received time:  2022-05-04 22:00:29.476868
+block:  37 , received time:  2022-05-04 22:00:43.917221
+block:  38 , received time:  2022-05-04 22:00:58.219208
+block:  39 , received time:  2022-05-04 22:01:12.645971
+block:  40 , received time:  2022-05-04 22:01:26.979680
+block:  41 , received time:  2022-05-04 22:01:41.405989
+block:  42 , received time:  2022-05-04 22:01:55.823524
+block:  43 , received time:  2022-05-04 22:02:10.385103
+block:  44 , received time:  2022-05-04 22:02:24.739398
+block:  45 , received time:  2022-05-04 22:02:39.133592
+
+4_L2_UNIV4_miner_44
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:05.793271
+block:  27 , received time:  2022-05-04 21:58:20.016854
+block:  28 , received time:  2022-05-04 21:58:34.215430
+block:  29 , received time:  2022-05-04 21:58:48.689114
+block:  30 , received time:  2022-05-04 21:59:02.764488
+block:  31 , received time:  2022-05-04 21:59:17.197214
+block:  32 , received time:  2022-05-04 21:59:31.738178
+block:  33 , received time:  2022-05-04 21:59:46.350740
+block:  34 , received time:  2022-05-04 22:00:00.688158
+block:  35 , received time:  2022-05-04 22:00:15.238415
+block:  36 , received time:  2022-05-04 22:00:29.616003
+block:  37 , received time:  2022-05-04 22:00:44.085244
+block:  38 , received time:  2022-05-04 22:00:58.372927
+block:  39 , received time:  2022-05-04 22:01:12.795295
+block:  40 , received time:  2022-05-04 22:01:27.135595
+block:  41 , received time:  2022-05-04 22:01:41.528482
+block:  42 , received time:  2022-05-04 22:01:55.977241
+block:  43 , received time:  2022-05-04 22:02:10.550681
+block:  44 , received time:  2022-05-04 22:02:24.885851
+block:  45 , received time:  2022-05-04 22:02:39.255915
+
+4_L2_UNIV4_miner_43
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:05.940418
+block:  27 , received time:  2022-05-04 21:58:20.184455
+block:  28 , received time:  2022-05-04 21:58:34.359190
+block:  29 , received time:  2022-05-04 21:58:48.831021
+block:  30 , received time:  2022-05-04 21:59:02.897865
+block:  31 , received time:  2022-05-04 21:59:17.359176
+block:  32 , received time:  2022-05-04 21:59:31.888484
+block:  33 , received time:  2022-05-04 21:59:46.497222
+block:  34 , received time:  2022-05-04 22:00:00.867094
+block:  35 , received time:  2022-05-04 22:00:15.404049
+block:  36 , received time:  2022-05-04 22:00:29.787075
+block:  37 , received time:  2022-05-04 22:00:44.229680
+block:  38 , received time:  2022-05-04 22:00:58.525296
+block:  39 , received time:  2022-05-04 22:01:12.905230
+block:  40 , received time:  2022-05-04 22:01:27.275930
+block:  41 , received time:  2022-05-04 22:01:41.650230
+block:  42 , received time:  2022-05-04 22:01:56.123049
+block:  43 , received time:  2022-05-04 22:02:10.693989
+block:  44 , received time:  2022-05-04 22:02:25.019117
+block:  45 , received time:  2022-05-04 22:02:39.396111
+
+4_L2_UNIV4_miner_42
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:06.101447
+block:  27 , received time:  2022-05-04 21:58:20.325190
+block:  28 , received time:  2022-05-04 21:58:34.485132
+block:  29 , received time:  2022-05-04 21:58:48.966977
+block:  30 , received time:  2022-05-04 21:59:03.047036
+block:  31 , received time:  2022-05-04 21:59:17.507292
+block:  32 , received time:  2022-05-04 21:59:32.066780
+block:  33 , received time:  2022-05-04 21:59:46.624007
+block:  34 , received time:  2022-05-04 22:00:01.020034
+block:  35 , received time:  2022-05-04 22:00:15.544862
+block:  36 , received time:  2022-05-04 22:00:29.943759
+block:  37 , received time:  2022-05-04 22:00:44.364072
+block:  38 , received time:  2022-05-04 22:00:58.646540
+block:  39 , received time:  2022-05-04 22:01:13.040907
+block:  40 , received time:  2022-05-04 22:01:27.430805
+block:  41 , received time:  2022-05-04 22:01:41.792659
+block:  42 , received time:  2022-05-04 22:01:56.284758
+block:  43 , received time:  2022-05-04 22:02:10.839995
+block:  44 , received time:  2022-05-04 22:02:25.138260
+block:  45 , received time:  2022-05-04 22:02:39.523706
+
+4_L2_UNIV4_miner_41
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:06.240383
+block:  27 , received time:  2022-05-04 21:58:20.451303
+block:  28 , received time:  2022-05-04 21:58:34.638077
+block:  29 , received time:  2022-05-04 21:58:49.134325
+block:  30 , received time:  2022-05-04 21:59:03.179684
+block:  31 , received time:  2022-05-04 21:59:17.654452
+block:  32 , received time:  2022-05-04 21:59:32.219111
+block:  33 , received time:  2022-05-04 21:59:46.773165
+block:  34 , received time:  2022-05-04 22:00:01.162386
+block:  35 , received time:  2022-05-04 22:00:15.665568
+block:  36 , received time:  2022-05-04 22:00:30.101957
+block:  37 , received time:  2022-05-04 22:00:44.489688
+block:  38 , received time:  2022-05-04 22:00:58.798443
+block:  39 , received time:  2022-05-04 22:01:13.198768
+block:  40 , received time:  2022-05-04 22:01:27.579934
+block:  41 , received time:  2022-05-04 22:01:41.931745
+block:  42 , received time:  2022-05-04 22:01:56.423271
+block:  43 , received time:  2022-05-04 22:02:10.992638
+block:  44 , received time:  2022-05-04 22:02:25.274468
+block:  45 , received time:  2022-05-04 22:02:39.665295
+
+3_L2_UNIV3_miner_38
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:06.399733
+block:  27 , received time:  2022-05-04 21:58:20.584806
+block:  28 , received time:  2022-05-04 21:58:34.785440
+block:  29 , received time:  2022-05-04 21:58:49.296428
+block:  30 , received time:  2022-05-04 21:59:03.323522
+block:  31 , received time:  2022-05-04 21:59:17.803625
+block:  32 , received time:  2022-05-04 21:59:32.372550
+block:  33 , received time:  2022-05-04 21:59:46.930030
+block:  34 , received time:  2022-05-04 22:00:01.292401
+block:  35 , received time:  2022-05-04 22:00:15.798195
+block:  36 , received time:  2022-05-04 22:00:30.225677
+block:  37 , received time:  2022-05-04 22:00:44.622374
+block:  38 , received time:  2022-05-04 22:00:58.934179
+block:  39 , received time:  2022-05-04 22:01:13.335773
+block:  40 , received time:  2022-05-04 22:01:27.717600
+block:  41 , received time:  2022-05-04 22:01:42.056990
+block:  42 , received time:  2022-05-04 22:01:56.585246
+block:  43 , received time:  2022-05-04 22:02:11.149263
+block:  44 , received time:  2022-05-04 22:02:25.418611
+block:  45 , received time:  2022-05-04 22:02:39.827302
+
+3_L2_UNIV3_miner_37
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:06.531972
+block:  27 , received time:  2022-05-04 21:58:20.737328
+block:  28 , received time:  2022-05-04 21:58:34.921329
+block:  29 , received time:  2022-05-04 21:58:49.421498
+block:  30 , received time:  2022-05-04 21:59:03.463688
+block:  31 , received time:  2022-05-04 21:59:17.937798
+block:  32 , received time:  2022-05-04 21:59:32.514589
+block:  33 , received time:  2022-05-04 21:59:47.069446
+block:  34 , received time:  2022-05-04 22:00:01.439177
+block:  35 , received time:  2022-05-04 22:00:15.942597
+block:  36 , received time:  2022-05-04 22:00:30.379444
+block:  37 , received time:  2022-05-04 22:00:44.766131
+block:  38 , received time:  2022-05-04 22:00:59.097748
+block:  39 , received time:  2022-05-04 22:01:13.480563
+block:  40 , received time:  2022-05-04 22:01:27.862716
+block:  41 , received time:  2022-05-04 22:01:42.172447
+block:  42 , received time:  2022-05-04 22:01:56.735566
+block:  43 , received time:  2022-05-04 22:02:11.293822
+block:  44 , received time:  2022-05-04 22:02:25.574375
+block:  45 , received time:  2022-05-04 22:02:39.973281
+
+3_L2_UNIV3_miner_36
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:06.650521
+block:  27 , received time:  2022-05-04 21:58:20.859459
+block:  28 , received time:  2022-05-04 21:58:35.049803
+block:  29 , received time:  2022-05-04 21:58:49.561014
+block:  30 , received time:  2022-05-04 21:59:03.598945
+block:  31 , received time:  2022-05-04 21:59:18.074687
+block:  32 , received time:  2022-05-04 21:59:32.641053
+block:  33 , received time:  2022-05-04 21:59:47.229699
+block:  34 , received time:  2022-05-04 22:00:01.567084
+block:  35 , received time:  2022-05-04 22:00:16.097072
+block:  36 , received time:  2022-05-04 22:00:30.511490
+block:  37 , received time:  2022-05-04 22:00:44.911199
+block:  38 , received time:  2022-05-04 22:00:59.227849
+block:  39 , received time:  2022-05-04 22:01:13.614054
+block:  40 , received time:  2022-05-04 22:01:27.993937
+block:  41 , received time:  2022-05-04 22:01:42.317945
+block:  42 , received time:  2022-05-04 22:01:56.897259
+block:  43 , received time:  2022-05-04 22:02:11.462847
+block:  44 , received time:  2022-05-04 22:02:25.697445
+block:  45 , received time:  2022-05-04 22:02:40.103049
+
+3_L2_UNIV3_miner_35
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:06.785041
+block:  27 , received time:  2022-05-04 21:58:20.990519
+block:  28 , received time:  2022-05-04 21:58:35.200126
+block:  29 , received time:  2022-05-04 21:58:49.689276
+block:  30 , received time:  2022-05-04 21:59:03.751019
+block:  31 , received time:  2022-05-04 21:59:18.217368
+block:  32 , received time:  2022-05-04 21:59:32.788057
+block:  33 , received time:  2022-05-04 21:59:47.358694
+block:  34 , received time:  2022-05-04 22:00:01.724231
+block:  35 , received time:  2022-05-04 22:00:16.246199
+block:  36 , received time:  2022-05-04 22:00:30.640210
+block:  37 , received time:  2022-05-04 22:00:45.061971
+block:  38 , received time:  2022-05-04 22:00:59.390373
+block:  39 , received time:  2022-05-04 22:01:13.747959
+block:  40 , received time:  2022-05-04 22:01:28.118903
+block:  41 , received time:  2022-05-04 22:01:42.459213
+block:  42 , received time:  2022-05-04 22:01:57.052077
+block:  43 , received time:  2022-05-04 22:02:11.587219
+block:  44 , received time:  2022-05-04 22:02:25.804152
+block:  45 , received time:  2022-05-04 22:02:40.228405
+
+3_L2_UNIV3_miner_34
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:06.921319
+block:  27 , received time:  2022-05-04 21:58:21.145397
+block:  28 , received time:  2022-05-04 21:58:35.340312
+block:  29 , received time:  2022-05-04 21:58:49.845224
+block:  30 , received time:  2022-05-04 21:59:03.870359
+block:  31 , received time:  2022-05-04 21:59:18.367972
+block:  32 , received time:  2022-05-04 21:59:32.966350
+block:  33 , received time:  2022-05-04 21:59:47.505474
+block:  34 , received time:  2022-05-04 22:00:01.876313
+block:  35 , received time:  2022-05-04 22:00:16.366157
+block:  36 , received time:  2022-05-04 22:00:30.779918
+block:  37 , received time:  2022-05-04 22:00:45.204219
+block:  38 , received time:  2022-05-04 22:00:59.537442
+block:  39 , received time:  2022-05-04 22:01:13.872773
+block:  40 , received time:  2022-05-04 22:01:28.259118
+block:  41 , received time:  2022-05-04 22:01:42.588050
+block:  42 , received time:  2022-05-04 22:01:57.211888
+block:  43 , received time:  2022-05-04 22:02:11.716096
+block:  44 , received time:  2022-05-04 22:02:25.935089
+block:  45 , received time:  2022-05-04 22:02:40.379420
+
+3_L2_UNIV3_miner_33
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:07.078978
+block:  27 , received time:  2022-05-04 21:58:21.274290
+block:  28 , received time:  2022-05-04 21:58:35.456297
+block:  29 , received time:  2022-05-04 21:58:50.003088
+block:  30 , received time:  2022-05-04 21:59:04.018467
+block:  31 , received time:  2022-05-04 21:59:18.520217
+block:  32 , received time:  2022-05-04 21:59:33.112449
+block:  33 , received time:  2022-05-04 21:59:47.656333
+block:  34 , received time:  2022-05-04 22:00:02.033726
+block:  35 , received time:  2022-05-04 22:00:16.494627
+block:  36 , received time:  2022-05-04 22:00:30.939698
+block:  37 , received time:  2022-05-04 22:00:45.346191
+block:  38 , received time:  2022-05-04 22:00:59.657776
+block:  39 , received time:  2022-05-04 22:01:13.992620
+block:  40 , received time:  2022-05-04 22:01:28.412422
+block:  41 , received time:  2022-05-04 22:01:42.750869
+block:  42 , received time:  2022-05-04 22:01:57.358909
+block:  43 , received time:  2022-05-04 22:02:11.859191
+block:  44 , received time:  2022-05-04 22:02:26.094785
+block:  45 , received time:  2022-05-04 22:02:40.491850
+
+3_L2_UNIV3_miner_32
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:07.224651
+block:  27 , received time:  2022-05-04 21:58:21.416540
+block:  28 , received time:  2022-05-04 21:58:35.603381
+block:  29 , received time:  2022-05-04 21:58:50.141299
+block:  30 , received time:  2022-05-04 21:59:04.166575
+block:  31 , received time:  2022-05-04 21:59:18.646127
+block:  32 , received time:  2022-05-04 21:59:33.253780
+block:  33 , received time:  2022-05-04 21:59:47.802489
+block:  34 , received time:  2022-05-04 22:00:02.179229
+block:  35 , received time:  2022-05-04 22:00:16.621379
+block:  36 , received time:  2022-05-04 22:00:31.056648
+block:  37 , received time:  2022-05-04 22:00:45.497747
+block:  38 , received time:  2022-05-04 22:00:59.809385
+block:  39 , received time:  2022-05-04 22:01:14.136117
+block:  40 , received time:  2022-05-04 22:01:28.563365
+block:  41 , received time:  2022-05-04 22:01:42.904467
+block:  42 , received time:  2022-05-04 22:01:57.527119
+block:  43 , received time:  2022-05-04 22:02:12.005457
+block:  44 , received time:  2022-05-04 22:02:26.257664
+block:  45 , received time:  2022-05-04 22:02:40.631956
+
+3_L2_UNIV3_miner_31
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:07.363614
+block:  27 , received time:  2022-05-04 21:58:21.576766
+block:  28 , received time:  2022-05-04 21:58:35.708061
+block:  29 , received time:  2022-05-04 21:58:50.288276
+block:  30 , received time:  2022-05-04 21:59:04.319597
+block:  31 , received time:  2022-05-04 21:59:18.772442
+block:  32 , received time:  2022-05-04 21:59:33.409510
+block:  33 , received time:  2022-05-04 21:59:47.931000
+block:  34 , received time:  2022-05-04 22:00:02.333435
+block:  35 , received time:  2022-05-04 22:00:16.771225
+block:  36 , received time:  2022-05-04 22:00:31.200643
+block:  37 , received time:  2022-05-04 22:00:45.660814
+block:  38 , received time:  2022-05-04 22:00:59.973883
+block:  39 , received time:  2022-05-04 22:01:14.275593
+block:  40 , received time:  2022-05-04 22:01:28.709984
+block:  41 , received time:  2022-05-04 22:01:43.048522
+block:  42 , received time:  2022-05-04 22:01:57.687314
+block:  43 , received time:  2022-05-04 22:02:12.151619
+block:  44 , received time:  2022-05-04 22:02:26.402494
+block:  45 , received time:  2022-05-04 22:02:40.766947
+
+2_L2_UNIV2_miner_23
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:07.517342
+block:  27 , received time:  2022-05-04 21:58:21.726381
+block:  28 , received time:  2022-05-04 21:58:35.856927
+block:  29 , received time:  2022-05-04 21:58:50.402580
+block:  30 , received time:  2022-05-04 21:59:04.473330
+block:  31 , received time:  2022-05-04 21:59:18.921377
+block:  32 , received time:  2022-05-04 21:59:33.565699
+block:  33 , received time:  2022-05-04 21:59:48.077616
+block:  34 , received time:  2022-05-04 22:00:02.483866
+block:  35 , received time:  2022-05-04 22:00:16.909469
+block:  36 , received time:  2022-05-04 22:00:31.345803
+block:  37 , received time:  2022-05-04 22:00:45.808991
+block:  38 , received time:  2022-05-04 22:01:00.127637
+block:  39 , received time:  2022-05-04 22:01:14.419104
+block:  40 , received time:  2022-05-04 22:01:28.860209
+block:  41 , received time:  2022-05-04 22:01:43.193060
+block:  42 , received time:  2022-05-04 22:01:57.827222
+block:  43 , received time:  2022-05-04 22:02:12.264053
+block:  44 , received time:  2022-05-04 22:02:26.525218
+block:  45 , received time:  2022-05-04 22:02:40.917732
+
+2_L2_UNIV2_miner_22
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:07.679708
+block:  27 , received time:  2022-05-04 21:58:21.874582
+block:  28 , received time:  2022-05-04 21:58:35.993478
+block:  29 , received time:  2022-05-04 21:58:50.564102
+block:  30 , received time:  2022-05-04 21:59:04.637489
+block:  31 , received time:  2022-05-04 21:59:19.088005
+block:  32 , received time:  2022-05-04 21:59:33.730512
+block:  33 , received time:  2022-05-04 21:59:48.199180
+block:  34 , received time:  2022-05-04 22:00:02.646813
+block:  35 , received time:  2022-05-04 22:00:17.028336
+block:  36 , received time:  2022-05-04 22:00:31.493694
+block:  37 , received time:  2022-05-04 22:00:45.971095
+block:  38 , received time:  2022-05-04 22:01:00.283434
+block:  39 , received time:  2022-05-04 22:01:14.557699
+block:  40 , received time:  2022-05-04 22:01:28.945427
+block:  41 , received time:  2022-05-04 22:01:43.330183
+block:  42 , received time:  2022-05-04 22:01:57.990186
+block:  43 , received time:  2022-05-04 22:02:12.416876
+block:  44 , received time:  2022-05-04 22:02:26.653890
+block:  45 , received time:  2022-05-04 22:02:41.048529
+
+2_L2_UNIV2_miner_21
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:07.840147
+block:  27 , received time:  2022-05-04 21:58:22.029144
+block:  28 , received time:  2022-05-04 21:58:36.135254
+block:  29 , received time:  2022-05-04 21:58:50.729183
+block:  30 , received time:  2022-05-04 21:59:04.785347
+block:  31 , received time:  2022-05-04 21:59:19.218543
+block:  32 , received time:  2022-05-04 21:59:33.878230
+block:  33 , received time:  2022-05-04 21:59:48.357550
+block:  34 , received time:  2022-05-04 22:00:02.794362
+block:  35 , received time:  2022-05-04 22:00:17.159303
+block:  36 , received time:  2022-05-04 22:00:31.639055
+block:  37 , received time:  2022-05-04 22:00:46.121662
+block:  38 , received time:  2022-05-04 22:01:00.429550
+block:  39 , received time:  2022-05-04 22:01:14.703416
+block:  40 , received time:  2022-05-04 22:01:29.105585
+block:  41 , received time:  2022-05-04 22:01:43.469260
+block:  42 , received time:  2022-05-04 22:01:58.144596
+block:  43 , received time:  2022-05-04 22:02:12.569101
+block:  44 , received time:  2022-05-04 22:02:26.791219
+block:  45 , received time:  2022-05-04 22:02:41.189165
+
+1_L2_UNIV1_miner_113
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:07.975222
+block:  27 , received time:  2022-05-04 21:58:22.164625
+block:  28 , received time:  2022-05-04 21:58:36.256695
+block:  29 , received time:  2022-05-04 21:58:50.881326
+block:  30 , received time:  2022-05-04 21:59:04.899639
+block:  31 , received time:  2022-05-04 21:59:19.370559
+block:  32 , received time:  2022-05-04 21:59:34.024373
+block:  33 , received time:  2022-05-04 21:59:48.502068
+block:  34 , received time:  2022-05-04 22:00:02.966449
+block:  35 , received time:  2022-05-04 22:00:17.289657
+block:  36 , received time:  2022-05-04 22:00:31.799924
+block:  37 , received time:  2022-05-04 22:00:46.264517
+block:  38 , received time:  2022-05-04 22:01:00.578248
+block:  39 , received time:  2022-05-04 22:01:14.852049
+block:  40 , received time:  2022-05-04 22:01:29.229273
+block:  41 , received time:  2022-05-04 22:01:43.648273
+block:  42 , received time:  2022-05-04 22:01:58.296365
+block:  43 , received time:  2022-05-04 22:02:12.697152
+block:  44 , received time:  2022-05-04 22:02:26.929918
+block:  45 , received time:  2022-05-04 22:02:41.330011
+
+1_L2_UNIV1_miner_112
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:08.118571
+block:  27 , received time:  2022-05-04 21:58:22.277597
+block:  28 , received time:  2022-05-04 21:58:36.399240
+block:  29 , received time:  2022-05-04 21:58:51.022393
+block:  30 , received time:  2022-05-04 21:59:05.040199
+block:  31 , received time:  2022-05-04 21:59:19.519197
+block:  32 , received time:  2022-05-04 21:59:34.156393
+block:  33 , received time:  2022-05-04 21:59:48.663261
+block:  34 , received time:  2022-05-04 22:00:03.116006
+block:  35 , received time:  2022-05-04 22:00:17.413521
+block:  36 , received time:  2022-05-04 22:00:31.935964
+block:  37 , received time:  2022-05-04 22:00:46.400382
+block:  38 , received time:  2022-05-04 22:01:00.706609
+block:  39 , received time:  2022-05-04 22:01:15.023233
+block:  40 , received time:  2022-05-04 22:01:29.371119
+block:  41 , received time:  2022-05-04 22:01:43.787038
+block:  42 , received time:  2022-05-04 22:01:58.449222
+block:  43 , received time:  2022-05-04 22:02:12.851559
+block:  44 , received time:  2022-05-04 22:02:27.084923
+block:  45 , received time:  2022-05-04 22:02:41.473622
+
+1_L2_UNIV1_miner_111
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:08.236069
+block:  27 , received time:  2022-05-04 21:58:22.410116
+block:  28 , received time:  2022-05-04 21:58:36.517212
+block:  29 , received time:  2022-05-04 21:58:51.160727
+block:  30 , received time:  2022-05-04 21:59:05.168730
+block:  31 , received time:  2022-05-04 21:59:19.658177
+block:  32 , received time:  2022-05-04 21:59:34.325709
+block:  33 , received time:  2022-05-04 21:59:48.792964
+block:  34 , received time:  2022-05-04 22:00:03.233244
+block:  35 , received time:  2022-05-04 22:00:17.566600
+block:  36 , received time:  2022-05-04 22:00:32.084247
+block:  37 , received time:  2022-05-04 22:00:46.550867
+block:  38 , received time:  2022-05-04 22:01:00.851388
+block:  39 , received time:  2022-05-04 22:01:15.167239
+block:  40 , received time:  2022-05-04 22:01:29.523453
+block:  41 , received time:  2022-05-04 22:01:43.930895
+block:  42 , received time:  2022-05-04 22:01:58.580802
+block:  43 , received time:  2022-05-04 22:02:12.998922
+block:  44 , received time:  2022-05-04 22:02:27.242794
+block:  45 , received time:  2022-05-04 22:02:41.605117
+
+1_L2_UNIV1_miner_110
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:08.381022
+block:  27 , received time:  2022-05-04 21:58:22.551051
+block:  28 , received time:  2022-05-04 21:58:36.672083
+block:  29 , received time:  2022-05-04 21:58:51.292681
+block:  30 , received time:  2022-05-04 21:59:05.312364
+block:  31 , received time:  2022-05-04 21:59:19.810049
+block:  32 , received time:  2022-05-04 21:59:34.467969
+block:  33 , received time:  2022-05-04 21:59:48.942725
+block:  34 , received time:  2022-05-04 22:00:03.365736
+block:  35 , received time:  2022-05-04 22:00:17.712486
+block:  36 , received time:  2022-05-04 22:00:32.221131
+block:  37 , received time:  2022-05-04 22:00:46.678860
+block:  38 , received time:  2022-05-04 22:01:01.015311
+block:  39 , received time:  2022-05-04 22:01:15.313649
+block:  40 , received time:  2022-05-04 22:01:29.659177
+block:  41 , received time:  2022-05-04 22:01:44.045679
+block:  42 , received time:  2022-05-04 22:01:58.736320
+block:  43 , received time:  2022-05-04 22:02:13.119061
+block:  44 , received time:  2022-05-04 22:02:27.411531
+block:  45 , received time:  2022-05-04 22:02:41.759706
+
+1_L2_UNIV1_miner_19
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:08.527079
+block:  27 , received time:  2022-05-04 21:58:22.665250
+block:  28 , received time:  2022-05-04 21:58:36.829776
+block:  29 , received time:  2022-05-04 21:58:51.435894
+block:  30 , received time:  2022-05-04 21:59:05.467171
+block:  31 , received time:  2022-05-04 21:59:19.949168
+block:  32 , received time:  2022-05-04 21:59:34.585713
+block:  33 , received time:  2022-05-04 21:59:49.059534
+block:  34 , received time:  2022-05-04 22:00:03.509276
+block:  35 , received time:  2022-05-04 22:00:17.889264
+block:  36 , received time:  2022-05-04 22:00:32.351468
+block:  37 , received time:  2022-05-04 22:00:46.806368
+block:  38 , received time:  2022-05-04 22:01:01.155030
+block:  39 , received time:  2022-05-04 22:01:15.436895
+block:  40 , received time:  2022-05-04 22:01:29.821193
+block:  41 , received time:  2022-05-04 22:01:44.185882
+block:  42 , received time:  2022-05-04 22:01:58.887347
+block:  43 , received time:  2022-05-04 22:02:13.245685
+block:  44 , received time:  2022-05-04 22:02:27.562135
+block:  45 , received time:  2022-05-04 22:02:41.908561
+
+1_L2_UNIV1_miner_18
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:08.670945
+block:  27 , received time:  2022-05-04 21:58:22.790561
+block:  28 , received time:  2022-05-04 21:58:36.985023
+block:  29 , received time:  2022-05-04 21:58:51.563994
+block:  30 , received time:  2022-05-04 21:59:05.614266
+block:  31 , received time:  2022-05-04 21:59:20.059894
+block:  32 , received time:  2022-05-04 21:59:34.746325
+block:  33 , received time:  2022-05-04 21:59:49.188039
+block:  34 , received time:  2022-05-04 22:00:03.672707
+block:  35 , received time:  2022-05-04 22:00:18.032352
+block:  36 , received time:  2022-05-04 22:00:32.497108
+block:  37 , received time:  2022-05-04 22:00:46.954452
+block:  38 , received time:  2022-05-04 22:01:01.313216
+block:  39 , received time:  2022-05-04 22:01:15.571251
+block:  40 , received time:  2022-05-04 22:01:29.974401
+block:  41 , received time:  2022-05-04 22:01:44.341145
+block:  42 , received time:  2022-05-04 22:01:59.042905
+block:  43 , received time:  2022-05-04 22:02:13.399372
+block:  44 , received time:  2022-05-04 22:02:27.707050
+block:  45 , received time:  2022-05-04 22:02:42.042174
+
+1_L2_UNIV1_miner_17
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:08.822128
+block:  27 , received time:  2022-05-04 21:58:22.921298
+block:  28 , received time:  2022-05-04 21:58:37.114219
+block:  29 , received time:  2022-05-04 21:58:51.685551
+block:  30 , received time:  2022-05-04 21:59:05.751562
+block:  31 , received time:  2022-05-04 21:59:20.209408
+block:  32 , received time:  2022-05-04 21:59:34.864612
+block:  33 , received time:  2022-05-04 21:59:49.348288
+block:  34 , received time:  2022-05-04 22:00:03.825227
+block:  35 , received time:  2022-05-04 22:00:18.172382
+block:  36 , received time:  2022-05-04 22:00:32.652529
+block:  37 , received time:  2022-05-04 22:00:47.081779
+block:  38 , received time:  2022-05-04 22:01:01.469657
+block:  39 , received time:  2022-05-04 22:01:15.720638
+block:  40 , received time:  2022-05-04 22:01:30.139789
+block:  41 , received time:  2022-05-04 22:01:44.485827
+block:  42 , received time:  2022-05-04 22:01:59.169606
+block:  43 , received time:  2022-05-04 22:02:13.543094
+block:  44 , received time:  2022-05-04 22:02:27.844954
+block:  45 , received time:  2022-05-04 22:02:42.185185
+
+1_L2_UNIV1_miner_16
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:08.975376
+block:  27 , received time:  2022-05-04 21:58:23.047117
+block:  28 , received time:  2022-05-04 21:58:37.243180
+block:  29 , received time:  2022-05-04 21:58:51.805524
+block:  30 , received time:  2022-05-04 21:59:05.904540
+block:  31 , received time:  2022-05-04 21:59:20.329922
+block:  32 , received time:  2022-05-04 21:59:34.981422
+block:  33 , received time:  2022-05-04 21:59:49.480787
+block:  34 , received time:  2022-05-04 22:00:03.982558
+block:  35 , received time:  2022-05-04 22:00:18.316629
+block:  36 , received time:  2022-05-04 22:00:32.803525
+block:  37 , received time:  2022-05-04 22:00:47.209518
+block:  38 , received time:  2022-05-04 22:01:01.584005
+block:  39 , received time:  2022-05-04 22:01:15.845876
+block:  40 , received time:  2022-05-04 22:01:30.267675
+block:  41 , received time:  2022-05-04 22:01:44.618623
+block:  42 , received time:  2022-05-04 22:01:59.299392
+block:  43 , received time:  2022-05-04 22:02:13.664997
+block:  44 , received time:  2022-05-04 22:02:28.000172
+block:  45 , received time:  2022-05-04 22:02:42.310800
+
+1_L2_UNIV1_miner_15
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:09.094109
+block:  27 , received time:  2022-05-04 21:58:23.196876
+block:  28 , received time:  2022-05-04 21:58:37.397194
+block:  29 , received time:  2022-05-04 21:58:51.926361
+block:  30 , received time:  2022-05-04 21:59:06.053682
+block:  31 , received time:  2022-05-04 21:59:20.490861
+block:  32 , received time:  2022-05-04 21:59:35.135420
+block:  33 , received time:  2022-05-04 21:59:49.642127
+block:  34 , received time:  2022-05-04 22:00:04.119652
+block:  35 , received time:  2022-05-04 22:00:18.440086
+block:  36 , received time:  2022-05-04 22:00:32.925288
+block:  37 , received time:  2022-05-04 22:00:47.383242
+block:  38 , received time:  2022-05-04 22:01:01.720477
+block:  39 , received time:  2022-05-04 22:01:15.965088
+block:  40 , received time:  2022-05-04 22:01:30.401309
+block:  41 , received time:  2022-05-04 22:01:44.735642
+block:  42 , received time:  2022-05-04 22:01:59.434551
+block:  43 , received time:  2022-05-04 22:02:13.778036
+block:  44 , received time:  2022-05-04 22:02:28.117603
+block:  45 , received time:  2022-05-04 22:02:42.460807
+
+1_L2_UNIV1_miner_14
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:09.256621
+block:  27 , received time:  2022-05-04 21:58:23.340896
+block:  28 , received time:  2022-05-04 21:58:37.548464
+block:  29 , received time:  2022-05-04 21:58:52.037997
+block:  30 , received time:  2022-05-04 21:59:06.187852
+block:  31 , received time:  2022-05-04 21:59:20.640979
+block:  32 , received time:  2022-05-04 21:59:35.289618
+block:  33 , received time:  2022-05-04 21:59:49.803889
+block:  34 , received time:  2022-05-04 22:00:04.285739
+block:  35 , received time:  2022-05-04 22:00:18.598326
+block:  36 , received time:  2022-05-04 22:00:33.045750
+block:  37 , received time:  2022-05-04 22:00:47.532076
+block:  38 , received time:  2022-05-04 22:01:01.851451
+block:  39 , received time:  2022-05-04 22:01:16.088714
+block:  40 , received time:  2022-05-04 22:01:30.534935
+block:  41 , received time:  2022-05-04 22:01:44.895949
+block:  42 , received time:  2022-05-04 22:01:59.557374
+block:  43 , received time:  2022-05-04 22:02:13.927300
+block:  44 , received time:  2022-05-04 22:02:28.269552
+block:  45 , received time:  2022-05-04 22:02:42.603013
+
+1_L2_UNIV1_miner_13
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:09.425538
+block:  27 , received time:  2022-05-04 21:58:23.498491
+block:  28 , received time:  2022-05-04 21:58:37.679744
+block:  29 , received time:  2022-05-04 21:58:52.137959
+block:  30 , received time:  2022-05-04 21:59:06.319359
+block:  31 , received time:  2022-05-04 21:59:20.762634
+block:  32 , received time:  2022-05-04 21:59:35.442360
+block:  33 , received time:  2022-05-04 21:59:49.927601
+block:  34 , received time:  2022-05-04 22:00:04.428688
+block:  35 , received time:  2022-05-04 22:00:18.750029
+block:  36 , received time:  2022-05-04 22:00:33.214509
+block:  37 , received time:  2022-05-04 22:00:47.674806
+block:  38 , received time:  2022-05-04 22:01:01.997704
+block:  39 , received time:  2022-05-04 22:01:16.214195
+block:  40 , received time:  2022-05-04 22:01:30.656187
+block:  41 , received time:  2022-05-04 22:01:45.032925
+block:  42 , received time:  2022-05-04 22:01:59.669415
+block:  43 , received time:  2022-05-04 22:02:14.047325
+block:  44 , received time:  2022-05-04 22:02:28.428307
+block:  45 , received time:  2022-05-04 22:02:42.750368
+
+1_L2_UNIV1_miner_12
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:09.570887
+block:  27 , received time:  2022-05-04 21:58:23.641407
+block:  28 , received time:  2022-05-04 21:58:37.829732
+block:  29 , received time:  2022-05-04 21:58:52.307804
+block:  30 , received time:  2022-05-04 21:59:06.473633
+block:  31 , received time:  2022-05-04 21:59:20.926453
+block:  32 , received time:  2022-05-04 21:59:35.571418
+block:  33 , received time:  2022-05-04 21:59:50.072142
+block:  34 , received time:  2022-05-04 22:00:04.588715
+block:  35 , received time:  2022-05-04 22:00:18.892958
+block:  36 , received time:  2022-05-04 22:00:33.356033
+block:  37 , received time:  2022-05-04 22:00:47.804170
+block:  38 , received time:  2022-05-04 22:01:02.142305
+block:  39 , received time:  2022-05-04 22:01:16.372474
+block:  40 , received time:  2022-05-04 22:01:30.785117
+block:  41 , received time:  2022-05-04 22:01:45.185275
+block:  42 , received time:  2022-05-04 22:01:59.814086
+block:  43 , received time:  2022-05-04 22:02:14.187228
+block:  44 , received time:  2022-05-04 22:02:28.560281
+block:  45 , received time:  2022-05-04 22:02:42.900066
+
+1_L2_UNIV1_miner_11
+block:  0 , received time:  0
+block:  26 , received time:  2022-05-04 21:58:09.693789
+block:  27 , received time:  2022-05-04 21:58:23.782577
+block:  28 , received time:  2022-05-04 21:58:37.986083
+block:  29 , received time:  2022-05-04 21:58:52.439984
+block:  30 , received time:  2022-05-04 21:59:06.623906
+block:  31 , received time:  2022-05-04 21:59:21.061297
+block:  32 , received time:  2022-05-04 21:59:35.724990
+block:  33 , received time:  2022-05-04 21:59:50.236631
+block:  34 , received time:  2022-05-04 22:00:04.718968
+block:  35 , received time:  2022-05-04 22:00:19.029867
+block:  36 , received time:  2022-05-04 22:00:33.471299
+block:  37 , received time:  2022-05-04 22:00:47.948544
+block:  38 , received time:  2022-05-04 22:01:02.280343
+block:  39 , received time:  2022-05-04 22:01:16.499413
+block:  40 , received time:  2022-05-04 22:01:30.901334
+block:  41 , received time:  2022-05-04 22:01:45.314087
+block:  42 , received time:  2022-05-04 22:01:59.920152
+block:  43 , received time:  2022-05-04 22:02:14.339814
+block:  44 , received time:  2022-05-04 22:02:28.716150
+block:  45 , received time:  2022-05-04 22:02:43.047912
+
