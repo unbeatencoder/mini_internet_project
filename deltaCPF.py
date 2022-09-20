@@ -50,7 +50,7 @@ blockReceptions['time'] = pd.to_datetime(blockReceptions['time'])
 deltas = []
 for i in range(len(blockReceptions)):
     block = blockReceptions['blockNum'][i]
-    print(block)
+    #print(block)
     spawnTime = blockGens['time'][block]
     deltas.append(blockReceptions['time'][i] - spawnTime)
 
@@ -70,3 +70,7 @@ blockReceptions.to_csv(output, index=False, header=True, mode='a')
 kwargs = {'cumulative': True}
 sns.distplot(blockReceptions['delta'], hist_kws=kwargs, kde_kws=kwargs)
 plt.show()
+plt.savefig(output[:-4])
+
+print("testing!!")
+print(blockReceptions['delta'].mean())
