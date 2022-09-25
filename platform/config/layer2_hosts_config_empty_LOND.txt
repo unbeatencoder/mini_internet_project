@@ -1,0 +1,2 @@
+student_31	tkann/btc-reg-d   UNIV1   EPFL    10000    1000    10
+student_32	tkann/btc-reg-d   UNIV1   EPFL    10000    1000    10

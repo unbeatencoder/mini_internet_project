@@ -87,7 +87,7 @@ for ((k=0;k<group_numbers;k++)); do
             dname="${host_l[1]}"
             l2name="${host_l[2]}"
             sname="${host_l[3]}"
-
+            #Adding -v hostpath:containerPath as a sharedvolume between containers to collect metrics.
             if [[ $hname != vpn* ]]; then
                 docker run -itd --net='none' --dns="${subnet_dns%/*}" --cap-add=NET_ADMIN \
                     --cpus=2 --pids-limit 100 --hostname "${hname}" \
@@ -97,7 +97,8 @@ for ((k=0;k<group_numbers;k++)); do
                     --sysctl net.ipv6.conf.all.disable_ipv6=0 \
                     --sysctl net.ipv6.icmp.ratelimit=0 \
                     -v /etc/timezone:/etc/timezone:ro \
-                    -v /etc/localtime:/etc/localtime:ro $dname
+                    -v /etc/localtime:/etc/localtime:ro \
+                    -v /home/kirtan/mini_internet_project/containerData:/etc/containerData $dname
 
                 CONTAINERS+=("${group_number}""_L2_""${l2name}""_""${hname}")
             fi
