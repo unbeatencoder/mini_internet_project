@@ -1,0 +1,2 @@
+miner_51	unbeatencoder/miniinternet   UNIV5   LINODS    10000    1000    10
+miner_52	unbeatencoder/miniinternet   UNIV5   LINODS    10000    1000    10

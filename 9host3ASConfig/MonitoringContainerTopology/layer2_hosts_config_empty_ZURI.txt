@@ -1,0 +1,2 @@
+student_11	unbeatencoder/miniinternet   UNIV2   ETHZ    10000    1000    10
+student_12	unbeatencoder/miniinternet   UNIV2   ETHZ    10000    1000    10

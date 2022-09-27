@@ -1,0 +1,2 @@
+miner_121	unbeatencoder/miniinternet   UNIV12  VODAS    10000    1000    10
+miner_122	unbeatencoder/miniinternet   UNIV12  VODAS    10000    1000    10
