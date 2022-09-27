@@ -1,0 +1,7 @@
+CONTAINER ID   IMAGE                        COMMAND                  CREATED         STATUS         PORTS     NAMES
+a1e01e2dd69e   unbeatencoder/miniinternet   "./startup.sh"           6 minutes ago   Up 6 minutes             3_L2_UNIV3_student_22
+eec19bf5ae35   unbeatencoder/miniinternet   "./startup.sh"           6 minutes ago   Up 6 minutes             3_L2_UNIV3_student_21
+20f95c566c6a   unbeatencoder/miniinternet   "./startup.sh"           6 minutes ago   Up 6 minutes             2_L2_UNIV2_student_12
+74f0ae4e2095   unbeatencoder/miniinternet   "./startup.sh"           6 minutes ago   Up 6 minutes             2_L2_UNIV2_student_11
+28e4bc7d6b75   unbeatencoder/miniinternet   "./startup.sh"           6 minutes ago   Up 6 minutes             1_L2_UNIV1_student_32
+a3794f55235c   unbeatencoder/miniinternet   "./startup.sh"           6 minutes ago   Up 6 minutes             1_L2_UNIV1_student_31

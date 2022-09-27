@@ -50,6 +50,8 @@ EXPOSE 8333 8332 22
 WORKDIR $HOME
 
 # Add startup script and set as default run
+ADD monitorblock.py $HOME/monitorblock.py
+RUN chmod +x $HOME/monitorblock.py
 ADD startup.sh $HOME/startup.sh
 RUN chmod +x $HOME/startup.sh
 CMD ["./startup.sh"]

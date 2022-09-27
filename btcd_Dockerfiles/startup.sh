@@ -24,6 +24,6 @@ export NAME=$NAME
 echo $NAME
 bitcoin-cli createwallet $NAME
 bitcoin-cli -getinfo
-
+python3 monitorblock.py &
 #launch a shell so it keeps alive forever
 /bin/bash
