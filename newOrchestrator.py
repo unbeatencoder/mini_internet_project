@@ -57,28 +57,22 @@ class miner:
         return infoJson['blocks']
 
 def generateBlockProportionately(hosts):
-    print('creating new block')
     randNum = np.random.randint(0,len(hosts)-1)
     host = getHostByName(hosts,hosts[randNum].imageName)
     host.generateBlocks()
-    print(len(hosts))
 
 def generateHosts(hostFile):
     hosts = []
     hostsfileDF = pandas.read_csv(hostFile,sep='\s+')
     for i, row in hostsfileDF.iterrows():
         hostName = row['NAMES']
-        print(hostName)
-        print('found host ', hostName)
         newMiner = miner(hostName)
         newMiner.getIP()
         hosts.append(newMiner)
     return hosts
 
 def getHostByName(hosts,hostname):
-    print(hostname)
     for host in hosts:
-        print(host.imageName)
         if host.imageName == hostname:
             return host
 
@@ -118,13 +112,12 @@ parser.add_argument('-q', '--quickconnect',
 
 
 def main():
-    # print('starting in main')
     args = parser.parse_args()
     NUMBER_OF_BLOCKS_TO_GEN = args.numBlocks
-    print(args.numBlocks)
     hostFile = args.hosts
-    print(hostFile)
     hosts = generateHosts(hostFile)
+    for host in hosts:
+        host.connectToNeighbors(hosts, args.quickConnect)
     ## generate the first block
     for i in range(NUMBER_OF_BLOCKS_TO_GEN):
         generateBlockProportionately(hosts)

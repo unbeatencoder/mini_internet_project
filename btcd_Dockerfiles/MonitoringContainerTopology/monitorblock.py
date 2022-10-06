@@ -15,6 +15,6 @@ while(1):
     jsonoutput = json.loads(output)
     numberOfBlocks = jsonoutput["blocks"]
     if(numberOfBlocks > previousNumberOfBlocks):
-        outPutFile.write(currentTime + '\n')
+        outPutFile.write('block no. ' + numberOfBlocks + 'currentTime : ' +currentTime + '\n')
         outPutFile.flush()
         previousNumberOfBlocks = numberOfBlocks
