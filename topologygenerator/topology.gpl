@@ -1,0 +1,15 @@
+graph [
+  node [
+    id 0
+    label "AmazonAES"
+  ]
+  node [
+    id 1
+    label "AWS"
+  ]
+  edge [
+    source 0
+    target 1
+    weight 14
+  ]
+]
