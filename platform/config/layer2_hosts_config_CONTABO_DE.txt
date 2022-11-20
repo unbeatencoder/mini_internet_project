@@ -1,6 +1,0 @@
-miner_111	unbeatencoder/miniinternet   UNIV11  CONTABOS    10000    1000    10
-miner_112	unbeatencoder/miniinternet   UNIV11  CONTABOS    10000    1000    10
-miner_113	unbeatencoder/miniinternet   UNIV11  CONTABOS    10000    1000    10
-miner_114	unbeatencoder/miniinternet   UNIV11  CONTABOS    10000    1000    10
-miner_115	unbeatencoder/miniinternet   UNIV11  CONTABOS    10000    1000    10
-miner_116	unbeatencoder/miniinternet   UNIV11  CONTABOS    10000    1000    10

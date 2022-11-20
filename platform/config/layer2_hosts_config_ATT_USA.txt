@@ -1,3 +1,0 @@
-miner_61	unbeatencoder/miniinternet   UNIV6   ATTS    10000    1000    10
-miner_62	unbeatencoder/miniinternet   UNIV6   ATTS    10000    1000    10
-miner_63	unbeatencoder/miniinternet   UNIV6   ATTS    10000    1000    10

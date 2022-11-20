@@ -1,4 +1,0 @@
-miner_71	unbeatencoder/miniinternet   UNIV7   VERIZNS    10000    1000    10
-miner_72	unbeatencoder/miniinternet   UNIV7   VERIZNS    10000    1000    10
-miner_73	unbeatencoder/miniinternet   UNIV7   VERIZNS    10000    1000    10
-miner_74	unbeatencoder/miniinternet   UNIV7   VERIZNS    10000    1000    10

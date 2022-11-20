@@ -1,2 +1,0 @@
-miner_91	unbeatencoder/miniinternet   UNIV9  COXS    10000    1000    10
-miner_92	unbeatencoder/miniinternet   UNIV9  COXS    10000    1000    10

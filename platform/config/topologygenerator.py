@@ -192,7 +192,7 @@ def create_layer2_hosts_config_files_for_all_AS(nodeNameToIdMapping):
 
 def create_layer2_hosts_config(ASName, ASId):
     f = open(getLayer2HostsConfigFileName(ASName), "w")
-    f.write("node010"+str(ASId))
+    f.write("node0"+str(ASId))
     f.write("\t")
     f.write("unbeatencoder/miniinternet")
     f.write("\t")

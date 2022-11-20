@@ -1,2 +1,0 @@
-miner_131	unbeatencoder/miniinternet   UNIV13  DETELS    10000    1000    10
-miner_132	unbeatencoder/miniinternet   UNIV13  DETELS    10000    1000    10
