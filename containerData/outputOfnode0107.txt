@@ -1,0 +1,2 @@
+node0107
+block no. 1 currentTime : 11/20/2022, 18:39:48:735599 blockhash: 003bc0157eb9ea7b07d37df0b9af4d5dbe8824ff91b35b4c81ecefbc04dcf2a1

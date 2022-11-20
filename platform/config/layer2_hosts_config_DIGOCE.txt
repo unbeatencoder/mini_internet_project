@@ -1,0 +1,1 @@
+node0104	unbeatencoder/miniinternet	AS4	SwitchAS4	10000	1000	10

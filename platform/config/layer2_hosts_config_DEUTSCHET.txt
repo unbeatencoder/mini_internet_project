@@ -1,0 +1,1 @@
+node01014	unbeatencoder/miniinternet	AS14	SwitchAS14	10000	1000	10

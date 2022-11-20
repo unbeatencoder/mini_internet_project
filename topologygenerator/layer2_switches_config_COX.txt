@@ -1,0 +1,1 @@
+AS10	SwitchAS10	COX	a2:f6:dd:22:56:56	1

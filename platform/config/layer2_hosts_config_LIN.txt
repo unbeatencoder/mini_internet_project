@@ -1,0 +1,1 @@
+node01011	unbeatencoder/miniinternet	AS11	SwitchAS11	10000	1000	10

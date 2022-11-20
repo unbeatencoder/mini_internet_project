@@ -1,1 +1,1 @@
-node02	unbeatencoder/miniinternet	AS2	SwitchAS2	10000	1000	10
+node0102	unbeatencoder/miniinternet	AS2	SwitchAS2	10000	1000	10

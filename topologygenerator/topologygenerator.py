@@ -17,14 +17,10 @@ def generate_topology(input_file):
     nodeId = 1
     for u, v, weight in G.edges.data("weight"):
         edges[(u,v)] = weight
-        if u in nodeNameToIdMapping:
-            continue
-        else:
+        if u not in nodeNameToIdMapping:
             nodeNameToIdMapping[u] =  nodeId
             nodeId = nodeId + 1
-        if v in nodeNameToIdMapping:
-            continue
-        else:
+        if v not in nodeNameToIdMapping:
             nodeNameToIdMapping[v] =  nodeId
             nodeId = nodeId + 1
 

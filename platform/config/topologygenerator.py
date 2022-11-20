@@ -17,14 +17,10 @@ def generate_topology(input_file):
     nodeId = 1
     for u, v, weight in G.edges.data("weight"):
         edges[(u,v)] = weight
-        if u in nodeNameToIdMapping:
-            continue
-        else:
+        if u not in nodeNameToIdMapping:
             nodeNameToIdMapping[u] =  nodeId
             nodeId = nodeId + 1
-        if v in nodeNameToIdMapping:
-            continue
-        else:
+        if v not in nodeNameToIdMapping:
             nodeNameToIdMapping[v] =  nodeId
             nodeId = nodeId + 1
 
@@ -192,7 +188,7 @@ def create_layer2_hosts_config_files_for_all_AS(nodeNameToIdMapping):
 
 def create_layer2_hosts_config(ASName, ASId):
     f = open(getLayer2HostsConfigFileName(ASName), "w")
-    f.write("node0"+str(ASId))
+    f.write("node010"+str(ASId))
     f.write("\t")
     f.write("unbeatencoder/miniinternet")
     f.write("\t")
