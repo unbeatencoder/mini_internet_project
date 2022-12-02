@@ -11,18 +11,17 @@ from pathlib import Path
 
 def generate_topology(input_file):
     print(input_file)
-    G = nx.read_gml(input_file)
+    G = nx.read_gml(input_file, label = None)
     edges = {}
     nodeNameToIdMapping = {}
-    nodeId = 1
+    for u, ASNO in G.nodes.data("ASNo") : 
+        if u not in nodeNameToIdMapping:
+            nodeNameToIdMapping[u] =  ASNO
+
+
     for u, v, weight in G.edges.data("weight"):
         edges[(u,v)] = weight
-        if u not in nodeNameToIdMapping:
-            nodeNameToIdMapping[u] =  nodeId
-            nodeId = nodeId + 1
-        if v not in nodeNameToIdMapping:
-            nodeNameToIdMapping[v] =  nodeId
-            nodeId = nodeId + 1
+       
 
     print(nodeNameToIdMapping)
     check_if_frr_daemons_file_exists()

@@ -1,1 +1,1 @@
-AS8	SwitchAS8	CONTABO	27:88:f2:12:25:ac	1
+AS8	SwitchAS8	CONTABO	1b:b7:0b:9e:ee:7c	1

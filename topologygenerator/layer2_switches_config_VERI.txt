@@ -1,1 +1,1 @@
-AS6	SwitchAS6	VERI	ad:49:4f:53:fb:c8	1
+AS6	SwitchAS6	VERI	59:0c:8f:3c:d9:48	1

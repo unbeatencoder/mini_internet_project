@@ -1,1 +1,1 @@
-AS2	SwitchAS2	AWS	63:ba:b7:8a:15:cf	1
+AS2	SwitchAS2	AWS	dc:17:13:25:42:47	1

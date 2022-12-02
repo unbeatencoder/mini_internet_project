@@ -1,1 +1,1 @@
-AS14	SwitchAS14	DEUTSC	cd:c8:a4:43:3b:62	1
+AS14	SwitchAS14	DEUTSC	53:9e:47:dc:96:27	1

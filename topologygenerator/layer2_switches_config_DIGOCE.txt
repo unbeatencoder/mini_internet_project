@@ -1,1 +1,1 @@
-AS4	SwitchAS4	DIGOCE	cd:c1:ba:47:ca:19	1
+AS4	SwitchAS4	DIGOCE	42:00:5e:b1:97:c4	1

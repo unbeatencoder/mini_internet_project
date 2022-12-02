@@ -1,1 +1,1 @@
-AS7	SwitchAS7	HETZER	0b:82:8c:f0:eb:e7	1
+AS7	SwitchAS7	HETZER	0f:f2:72:85:1f:5a	1

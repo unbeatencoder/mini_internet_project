@@ -1,1 +1,1 @@
-AS1	SwitchAS1	AmazonAES	b7:6f:9b:8a:d9:95	1
+AS1	SwitchAS1	AmazonAES	6d:5d:1e:24:57:75	1
