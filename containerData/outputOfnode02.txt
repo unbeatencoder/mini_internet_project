@@ -1,2 +1,0 @@
-node02
-block no. 1 currentTime : 11/20/2022, 17:52:03:922187 blockhash: 3c56af2ee3f70bc8f04c443f736ecc6473438395c42f7c5b2360be5f43a511d4

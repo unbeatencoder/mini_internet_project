@@ -1,0 +1,57 @@
+1963  sudo docker exec -it 1_L2_AS1_node0101 bash
+1964  sudo docker exec -it 15_L2_AS15_node01015 bash
+1965  sudo docker exec -it 10_L2_AS10_node01010 bash
+1966  sudo docker exec -it 5_L2_AS5_node0105 bash
+1967  sudo docker exec -it 13_L2_AS13_node01013 bash
+ 
+
+ 0a8f7c01cf8e5e95d40367df0c544a9bbb1d6e1c32e5e217f5a153092b7c2a2anode0101
+4d155ecf4d8b769f55222f06532d02f33c943a59bfe627c6ca523c1f68bdcbb0node01015
+5e75a1c0ac8e35333d097c2ad394eb12bdb0ccb536feed5e9bef8b349eb02aednode01010
+375900759f38a023c1064e72c15a7fbf1c98e6dd6d13543e9f859a524c4bf249node0105
+2b683205f08134c944133d666ddb72690dc843bfec746665300cf0e7aa2cf417node01013
+
+500 ms delay
+ 1983  sudo docker exec -it 1_L2_AS1_node0101 bash
+ 1984  sudo docker exec -it 5_L2_AS5_node0105 bash
+ 1985  sudo docker exec -it 10_L2_AS10_node01010 bash
+ 1986  sudo docker exec -it 13_L2_AS13_node01013 bash
+ 1987  sudo docker exec -it 15_L2_AS15_node01015 bash
+
+
+
+2e755412dd37481ec0ff5586a6c9fbce8f76bae6e67166bd7d3a3584b8c10d60node0101
+29228f6285feb926896b1fad03c8c95d69bbbca25ceb118ef225b3cd3fe85b1cnode0105
+2ad5fa34d6f2a916e065fc73e3a19b84ce11afb62596fb15357e84d3b2d47c56node01010
+237e454e9f13f7b29a26fc5b173b8a1b31a04796a2863647b1c67df9df7772d9node01013
+1abb268b74712d1b4858b61da9094cc891d851a9070c6a18424fc9143ce49328node01015
+
+
+ 1983  sudo docker exec -it 1_L2_AS1_node0101 bash
+ 1984  sudo docker exec -it 5_L2_AS5_node0105 bash
+ 1985  sudo docker exec -it 10_L2_AS10_node01010 bash
+ 1986  sudo docker exec -it 13_L2_AS13_node01013 bash
+ 1987  sudo docker exec -it 15_L2_AS15_node01015 bash
+
+1983  sudo docker exec -it 1_L2_AS1_node0101 bash
+ 1984  sudo docker exec -it 5_L2_AS5_node0105 bash
+ 1985  sudo docker exec -it 10_L2_AS10_node01010 bash
+ 1986  sudo docker exec -it 13_L2_AS13_node01013 bash
+ 1987  sudo docker exec -it 15_L2_AS15_node01015 bash
+753a6a56b2a85a8890bb06b0019092f86f58980827382d23cff7846ad57063aanode0101
+09bb38434d01604555279a6122300b1b86f2af5aea15553c4acf1dfbc51ccc49node0105
+5a7a20c1ccc553414d0fe4d9ed216b307f8a2a487937ad7b222319cf25b264ebnode01010
+54173ab0d7773a8c7fd932c6abca2d082abc5842f2634c3561aed0a42f24813fnode01013
+154c21e3ea74d57a7ff617456be893f869a291019d563f478424cc2c5eded95cnode01015
+
+5000  ms delay 
+ 1983  sudo docker exec -it 1_L2_AS1_node0101 bash
+ 1984  sudo docker exec -it 5_L2_AS5_node0105 bash
+ 1985  sudo docker exec -it 10_L2_AS10_node01010 bash
+ 1986  sudo docker exec -it 13_L2_AS13_node01013 bash
+ 1987  sudo docker exec -it 15_L2_AS15_node01015 bash
+0ac5033c8a98bfcbdd1e9ef5577c18116f20b944d94c549dd6cb5b2c3208da9cnode0101
+27c69e990c37f00b91fe2d316bac4b8b59ad2b0fb9465b7a8048d694f76b484bnode0105
+56ba090598639eccf92775ca478dc13f42c9ebc3e0a2633923c65e0b2f1c3d38node01010
+6a402e3f721ac85b99a4d76e92194ff1045b1f9b6dc4f37b6d101e5771939b9bnode01013
+19a4e410303ae6ceea7a6826d6d30149786d74bd46ce9464165282519a99ff75node01015

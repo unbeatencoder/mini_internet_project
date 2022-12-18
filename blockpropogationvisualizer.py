@@ -24,11 +24,14 @@ def read_data(folder_name):
 
 def plot_data(data):
     timeDifferences = { }
+    minimumTimeNode = ""
     for block in data:
         minimumTime = data[block][0][0]
+        minimumTimeNode = data[block][0][1]
         for node in data[block]:
             if(node[0] < minimumTime):
                 minimumTime = node[0]
+                minimumTimeNode = node[1]
         for node in data[block]:
             timeDifference =  node[0] - minimumTime
             timeDifferenceInSeconds = timeDifference.total_seconds()
@@ -36,6 +39,7 @@ def plot_data(data):
                 timeDifferences[block].append(timeDifferenceInSeconds*1000)
             else :
                 timeDifferences[block] = [timeDifferenceInSeconds*1000]
+        print(block + minimumTimeNode)
     for block in timeDifferences : 
         xaxis = array(range(len(timeDifferences[block])))
         yaxis = timeDifferences[block]
