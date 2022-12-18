@@ -14,6 +14,7 @@ def generate_topology(input_file):
     G = nx.read_gml(input_file, label = None)
     edges = {}
     nodeNameToIdMapping = {}
+    hosts = {}
     for u, ASNO in G.nodes.data("ASNo") : 
         if u not in nodeNameToIdMapping:
             nodeNameToIdMapping[u] =  ASNO
@@ -21,8 +22,13 @@ def generate_topology(input_file):
 
     for u, v, weight in G.edges.data("weight"):
         edges[(u,v)] = weight
-       
 
+    for u, hostcount in G.nodes.data("hosts"):
+        hosts[u] = hostcount
+        if(hosts[u] == None):
+            hosts[u] = 1
+
+    print(hosts)
     print(nodeNameToIdMapping)
     check_if_frr_daemons_file_exists()
     check_if_subnet_config_file_exists()
@@ -32,7 +38,7 @@ def generate_topology(input_file):
     create_router_config_files_for_all_AS(nodeNameToIdMapping)
     create_internal_link_config_files_for_all_AS(nodeNameToIdMapping)
     create_layer2_switches_config_files_for_all_AS(nodeNameToIdMapping)
-    create_layer2_hosts_config_files_for_all_AS(nodeNameToIdMapping)
+    create_layer2_hosts_config_files_for_all_AS(nodeNameToIdMapping, hosts)
     create_layer2_links_config_files_for_all_AS(nodeNameToIdMapping)
 
 def check_if_frr_daemons_file_exists():
@@ -180,27 +186,30 @@ def rand_mac():
         random.randint(0, 255)
         )
 
-def create_layer2_hosts_config_files_for_all_AS(nodeNameToIdMapping):
+def create_layer2_hosts_config_files_for_all_AS(nodeNameToIdMapping, hosts):
     for ASName in nodeNameToIdMapping:
-            create_layer2_hosts_config(ASName, nodeNameToIdMapping[ASName])
+            create_layer2_hosts_config(ASName, nodeNameToIdMapping[ASName], hosts[ASName])
     return
 
-def create_layer2_hosts_config(ASName, ASId):
+def create_layer2_hosts_config(ASName, ASId, hostcount):
     f = open(getLayer2HostsConfigFileName(ASName), "w")
-    f.write("node010"+str(ASId))
-    f.write("\t")
-    f.write("unbeatencoder/miniinternet")
-    f.write("\t")
-    f.write("AS"+str(ASId))
-    f.write("\t")
-    f.write("SwitchAS"+str(ASId))
-    f.write("\t")
-    f.write("10000")
-    f.write("\t")
-    f.write("1000")
-    f.write("\t")
-    f.write("10")
-    f.close()
+    for i in range(hostcount):
+        f.write("node0" + str(i) + "0"+str(ASId))
+        f.write("\t")
+        f.write("unbeatencoder/miniinternet")
+        f.write("\t")
+        f.write("AS"+str(ASId))
+        f.write("\t")
+        f.write("SwitchAS"+str(ASId))
+        f.write("\t")
+        f.write("10000")
+        f.write("\t")
+        f.write("1000")
+        f.write("\t")
+        f.write("10")
+        if(i != hostcount - 1):
+            f.write("\n")
+    # f.close()
     return  
 
 def create_layer2_links_config_files_for_all_AS(nodeNameToIdMapping):

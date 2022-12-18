@@ -2,62 +2,77 @@ graph [
   node [
     ASNo 1
     id "AmazonAES"
+    hosts 1
   ]
   node [
     ASNo 2
     id "AWS"
+    hosts 1
   ]
   node [
     ASNo 3
     id "COMCAST"
+    hosts 1
   ]
   node [
     ASNo 4
     id "DIGOCE"
+    hosts 1
   ]
   node [
     ASNo 5
     id "ATT"
+    hosts 1
   ]
   node [
     ASNo 6
     id "VERI"
+    hosts 1
   ]
   node [
     ASNo 7
     id "HETZER"
+    hosts 1
   ]
   node [
     ASNo 8
     id "CONTABO"
+    hosts 1
   ]
   node [
     ASNo 9
     id "OVH"
+    hosts 1
   ]
   node [
     ASNo 10
     id "COX"
+    hosts 1
   ]
   node [
     ASNo 11
     id "LIN"
+    hosts 1
   ]
    node [
     ASNo 12
     id "CONSTANT"
+    hosts 1
   ]
   node [
     ASNo 13
     id "VODA"
+    hosts 1
   ]
   node [
     ASNo 14
     id "DEUTSC"
+    hosts 1
   ]
   node [
     ASNo 15
     id "ONLSAS"
+    hosts 1
   ]
   edge [
     source "AmazonAES"
